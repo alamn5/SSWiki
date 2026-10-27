@@ -1,0 +1,156 @@
+{
+    "characters": [
+        {
+            "character_name": "Sunny",
+            "chapter_introduced": 1
+            
+        },
+        {
+            "character_name": "Rain",
+            "chapter_introduced": 1
+            
+        },
+        {
+            "character_name": "Old Policeman",
+            "chapter_introduced": 1
+
+        },
+        {
+            "character_name": "Shifty",
+            "chapter_introduced": 2
+            
+        },
+        {
+            "character_name": "Scholar",
+            "chapter_introduced": 2
+            
+        },
+        {
+            "character_name": "Hero",
+            "chapter_introduced": 6
+            
+        },
+        {
+            "character_name": "Jet",
+            "chapter_introduced": 17
+            
+        },
+        {
+            "character_name": "Caster",
+            "chapter_introduced": 21,
+            "chapter_really_introduced": 20
+            
+        },
+        {
+            "character_name": "Rock",
+            "chapter_introduced": 22
+            
+        },
+        {
+            "character_name": "Cassie",
+            "chapter_introduced": 24,
+            "chapter_really_introduced": 22
+            
+        },
+        {
+            "character_name": "Nephis",
+            "chapter_introduced": 24,
+            "chapter_really_introduced": 19
+            
+        },
+
+        {
+            "character_name": "Julius",
+            "chapter_introduced": 25
+            
+        },
+        {
+            "character_name": "Smile of Heaven",
+            "chapter_introduced": 25
+            
+        },
+        {
+            "character_name": "Broken Sword",
+            "chapter_introduced": 27
+            
+        },
+        {
+            "character_name": "Immortal Flame",
+            "chapter_introduced": 27
+            
+        },
+        {
+            "character_name": "Gunlaug",
+            "chapter_introduced": 98
+            
+        },
+        {
+            "character_name": "Kai",
+            "chapter_introduced": 115
+            
+        },
+        {
+            "character_name": "Effie",
+            "chapter_introduced": 126
+            
+        },
+        {
+            "character_name": "Harper",
+            "chapter_introduced": 134
+            
+        },
+        {
+            "character_name": "Gemma",
+            "chapter_introduced": 141
+            
+        },
+        {
+            "character_name": "Tessai",
+            "chapter_introduced": 141
+
+        },
+        {
+            "character_name": "Kido",
+            "chapter_introduced": 142
+            
+        },
+        {
+            "character_name": "Seishan",
+            "chapter_introduced": 142
+            
+        },
+        {
+            "character_name": "Harus",
+            "chapter_introduced": 143
+            
+        },
+        {
+            "character_name": "Jubei",
+            "chapter_introduced": 144
+            
+        },
+        {
+            "character_name": "Aiko",
+            "chapter_introduced": 150
+            
+        },
+        {
+            "character_name": "Andel",
+            "chapter_introduced": 153
+            
+        },
+        {
+            "character_name": "Stephen",
+            "chapter_introduced": 224
+            
+        },
+        {
+            "character_name": "First Lord",
+            "chapter_introduced": 244
+        },
+        {
+            "character_name": "Stone Saint",
+            "chapter_introduced": 102
+        }
+    ]
+}

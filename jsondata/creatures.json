@@ -1,0 +1,56 @@
+{
+    "creatures":[
+        {
+            "creature_name": "Mountain King",
+            "chapter_introduced": 6
+        },
+        {
+            "creature_name": "Carapace Scavenger",
+            "chapter_introduced": 33
+        },
+        {
+            "creature_name": "Carapace Centurion",
+            "chapter_introduced": 52
+        },
+        {
+            "creature_name": "Carapace King",
+            "chapter_introduced": 63
+        },
+        {
+            "creature_name": "Vile Thieving Bird & The Great Devil",
+            "chapter_introduced": 80
+        },
+        {
+            "creature_name": "Soul Devouring Tree",
+            "chapter_introduced": 86
+        },
+        {
+            "creature_name": "Black Knight",
+            "chapter_introduced": 99 
+        },
+        {
+            "creature_name": "Blood Fiend",
+            "chapter_introduced": 97
+        },
+        {
+            "creature_name": "Fallen Devil",
+            "chapter_introduced": 118
+        },
+        {
+            "creature_name": "Spire Messenger",
+            "chapter_introduced": 132
+        },
+        {
+            "creature_name": "Iron Spider",
+            "chapter_introduced": 222
+        },
+        {
+            "creature_name": "Flesh Reaver",
+            "chapter_introduced": 233
+        },
+        {
+            "creature_name": "Crimson Terror",
+            "chapter_introduced": 258
+        }
+    ]
+}

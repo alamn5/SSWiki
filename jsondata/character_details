@@ -1,0 +1,410 @@
+{
+    "character_details": [
+        {
+            "cid": "Sunny",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character"
+                }
+            ]
+        },
+
+        {
+            "cid": "Nephis",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character2"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character2"
+                }
+            ]
+        },
+
+        {
+            "cid": "Cassie",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+
+        {
+            "cid": "Rain",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Caster",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Shifty",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Scholar",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Hero",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Jet",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Rock",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Julius",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Smile of Heaven",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Broken Sword",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Immortal Flame",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Gunlaug",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Kai",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Effie",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Harper",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Gemma",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Tessai",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Kido",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Seishan",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Harus",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Jubei",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Aiko",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Andel",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Stephen",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "First Lord",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Stone Saint",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "insertname",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "insertname",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        }
+    ]
+}

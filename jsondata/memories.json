@@ -1,0 +1,68 @@
+{
+    "memories":[
+        {
+            "memory_name": "Silver Bell",
+            "chapter_introduced": 8
+        },
+        {
+            "memory_name": "Puppeteers Shroud",
+            "chapter_introduced": 15
+        },
+        {
+            "memory_name": "Azure Blade",
+            "chapter_introduced": 33
+        },
+        {
+            "memory_name": "Starlight Legion Armor",
+            "chapter_introduced": 52
+        },
+        {
+            "memory_name": "Midnight Shard",
+            "chapter_introduced": 74
+        },
+        {
+            "memory_name": "Drop of Ichor",
+            "chapter_introduced": 81
+        },
+        {
+            "memory_name": "Ordinary Rock",
+            "chapter_introduced": 104
+        },
+        {
+            "memory_name": "Prowling Thorn",
+            "chapter_introduced": 104
+        },
+        {
+            "memory_name": "Endless Spring",
+            "chapter_introduced": 104
+        },
+        {
+            "memory_name": "Blood Arrow",
+            "chapter_introduced": 204
+        },
+        {
+            "memory_name": "Zenith Shard",
+            "chapter_introduced": 221
+        },
+        {
+            "memory_name": "Blood Blossom",
+            "chapter_introduced": 241
+        },
+        {
+            "memory_name": "Dark Wing",
+            "chapter_introduced": 241
+        },
+        {
+            "memory_name": "Dusk Shard",
+            "chapter_introduced": 261
+        },
+        {
+            "memory_name": "Weavers Mask",
+            "chapter_introduced": 278
+        },
+        {
+            "memory_name": "Dawn Shard",
+            "chapter_introduced": 255
+        }
+    ]
+}
