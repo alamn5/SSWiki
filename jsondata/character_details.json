@@ -1,0 +1,635 @@
+{
+    "character_details": [
+        {
+            "cid": "Sunny",
+            "image": "icons/sunny_main_img.png",
+            "details": [
+                {
+                "chapter": 1,
+                "text": "Infected by the Nightmare Spell. He spends most of his savings on real coffee, then surrenders to the police and gives the name Sunless."
+                },
+                {
+                "chapter": 2,
+                "text": "Given Aspect is [Temple Slave], and his Attributes are [Fated], [Mark of Divinity], and [Child of Shadows]."
+                },
+                {
+                "chapter": 4,
+                "text": "Kills the Mountain King's Larva by wrapping the caravan chain around it and strangling it, his first kill."
+                },
+                {
+                "chapter": 8,
+                "text": "Kills the dying veteran slaver and receives his first Memory, [Silver Bell]. He also takes the veteran's warm cloak and boots, and gathers water flagons from the dead."
+                },
+                {
+                "chapter": 9,
+                "text": "Leaves his short sword behind on the climb to reduce his weight."
+                },
+                {
+                "chapter": 13,
+                "text": "Reveals that he squeezed Bloodbane juice into every recovered flagon except his own. He uses the [Silver Bell] to draw the blind Mountain King toward Hero, and the bell vanishes after he rings it."
+                },
+                {
+                "chapter": 14,
+                "text": "Reaches the ruined Shadow God temple. The god's blessing kills Mountain King, and the Spell ends his First Nightmare."
+                },
+                {
+                "chapter": 15,
+                "text": "Receives the Memory [Puppeteer's Shroud], taken from Mountain King, an Awakened Tyrant. He receives the True Name [Lost from Light], and his Aspect evolves into [Shadow Slave], Divine rank, with the innate ability [Shadow Bond]. The appraisal lists his defeated enemies, including an awakened human named Auro of the Nine."
+                },
+                {
+                "chapter": 16,
+                "text": "Awakens a Shadow Core instead of a Soul Core, and learns the Aspect Ability [Shadow Control]. He progresses through Shadow Fragments instead of soul shards and starts with 12 of 1000. His two Memories appear as spheres orbiting the core."
+                },
+                {
+                "chapter": 17,
+                "text": "His Flaw is revealed as [Clear Conscience]: he cannot lie. He wakes in the police station and meets Master Jet."
+                },
+                {
+                "chapter": 18,
+                "text": "Finds that his shadow moves independently, and develops a sense for the shadows around him."
+                },
+                {
+                "chapter": 20,
+                "text": "Discovers he can control how he words true answers, and decides to hide his True Name by looking like a pathetic, unreliable Sleeper."
+                },
+                {
+                "chapter": 24,
+                "text": "Reads the description of the [Puppeteer's Shroud], an Awakened-rank armor made from the black silk cocoon of a Puppeteer Worm. It summons as light, silent armor of dark-grey cloth and black leather that gives him a faint calm and probably protects against mental attacks."
+                },
+                {
+                "chapter": 26,
+                "text": "Learns to detach his shadow and use it as a scout, sharing sight and hearing."
+                },
+                {
+                "chapter": 27,
+                "text": "Punches a strength machine for 9, then 18 with the shadow wrapped around his fist."
+                },
+                {
+                "chapter": 30,
+                "text": "Enters the Dream Realm on the Forgotten Shore and summons the [Puppeteer's Shroud] for clothes, stranded atop the neck of a headless statue."
+                },
+                {
+                "chapter": 33,
+                "text": "Pulls a bone from the mud to use as a spear and kills a wounded Carapace Scavenger by driving it through its eye. He receives the Memory [Azure Blade]."
+                },
+                {
+                "chapter": 34,
+                "text": "Reads the [Azure Blade]'s details: Awakened rank, Weapon type, description 'On this forgotten shore, only steel remembers.' It is about a meter long, a single-edged blade of layered azure steel with white sparks inside, a minimal crossguard, and a handle long enough for two hands. Wrapped in his shadow, it turns bluish-black like a starry sky. His Shadow Fragments rise to 14. He takes the scavenger's soul shard but cannot absorb it. He weaves a makeshift rucksack out of black seaweed to carry the soul shard and meat."
+                },
+                {
+                "chapter": 37,
+                "text": "Tells the girls he has three Memories: an armor, a sword, and a loud bell."
+                },
+                {
+                "chapter": 40,
+                "text": "Kills a second Carapace Scavenger by stabbing the shadow-wrapped [Azure Blade] into the weak spot on its back."
+                },
+                {
+                "chapter": 41,
+                "text": "Gives all his soul shards (three crystals) to Nephis and offers her every shard he earns on the way to the castle, in return for combat lessons. He keeps none because his own progress comes from Shadow Fragments, now 22 of 1000."
+                },
+                {
+                "chapter": 46,
+                "text": "Kills a scavenger in direct combat, cutting off a front leg with a push-and-pull stroke and thrusting the sword through its mouth. The Spell announces a new reward under Echoes: Carapace Scavenger."
+                },
+                {
+                "chapter": 47,
+                "text": "Receives his first Echo, [Carapace Scavenger]. Echo Type: Beast. Echo Core: Awakened. Echo Attributes: [Strong], [Armored]. Description: 'A cursed soldier of the fallen legion.' Touching it prompts an offer to transform it into a Shadow, which requires 100 Shadow Fragments, and he has 24. He summons it to carry Cassie."
+                },
+                {
+                "chapter": 52,
+                "text": "Nearly killed by a Carapace Centurion. His Echo delivers the killing blow, which gives Sunny the Memory [Starlight Legion Armor]. During the fight the Echo's pincer arm is cut off."
+                },
+                {
+                "chapter": 53,
+                "text": "Healed by Nephis's white flame. He keeps the clarity of mind he found while dying."
+                },
+                {
+                "chapter": 54,
+                "text": "Reads the [Starlight Legion Armor]'s description: Awakened rank, Armor type, 'Born in the all-consuming darkness, seven valiant heroes made an oath to return light to the cursed land. Time has erased their names and their faces, but the memory of the defiant oath still remains.' He transfers it to Nephis by taking her hand. His Shadow Fragments are 28, and his Echo is recovering in his Sea of Soul."
+                },
+                {
+                "chapter": 58,
+                "text": "His Echo's lost pincer arm has regrown after two weeks."
+                },
+                {
+                "chapter": 59,
+                "text": "Harvests the two oil sacks from each centipede monster. They produce a corrosive, flammable oil only when mixed, so Nephis insists on keeping them separate."
+                },
+                {
+                "chapter": 60,
+                "text": "His Shadow Fragments are 96 of 1000."
+                },
+                {
+                "chapter": 66,
+                "text": "Disguises the Echo inside a dead centurion's empty carapace to lure the Carapace Demon."
+                },
+                {
+                "chapter": 67,
+                "text": "His Echo is torn in half by the Carapace Demon and dissolves into sparks, and the sphere representing it vanishes from his Sea of Soul."
+                },
+                {
+                "chapter": 68,
+                "text": "Makes two clay jars holding the separate components of centipede oil, and a bone-and-seaweed torch. The oil does nothing to the demon's armor, but it sets him alight when the torch is thrown."
+                },
+                {
+                "chapter": 71,
+                "text": "The [Azure Blade] shatters near the crossguard when he blocks the Carapace Demon's scythe, and the Spell begins to announce the Memory's destruction. He throws the glowing fragments at the great tree as a distraction."
+                },
+                {
+                "chapter": 74,
+                "text": "Receives the Memory [Midnight Shard] from Nephis by touch. It came from the Carapace Demon, making it a tier three Awakened weapon. Description: 'Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender.' It is a slightly curved single-edged tachi, 70 to 80 centimeters long, made of the same bright metal as the demon's armor, with a polished black wooden hilt like the tree's branches and a round crossguard. He senses a deep well of power he cannot yet reach."
+                },
+                {
+                "chapter": 76,
+                "text": "Pries three soul shards from the Carapace Demon's corpse, and cannot find the transcendent soul shard the demon dropped."
+                },
+                {
+                "chapter": 77,
+                "text": "Eats a fruit of the Soul Tree and receives a Shadow Fragment, bringing his count to 97."
+                },
+                {
+                "chapter": 80,
+                "text": "Finds a giant nest in the Soul Tree. He strikes the egg with the [Midnight Shard], wraps the blade in shadow, and kills the Great Devil, the Vile Thieving Bird's Spawn. The Spell announces that he has received a Memory."
+                },
+                {
+                "chapter": 81,
+                "text": "The Memory is [Drop of Ichor], rank and type unknown. Its description says the Thieving Bird stole one of Weaver's eyes, went mad on seeing something unknown reflected in the pupil, dropped the eye, and kept only one drop of golden ichor. Parts of the text are untranslatable. He consumes it. His Shadow Fragments are 196 of 1000."
+                },
+                {
+                "chapter": 82,
+                "text": "The ichor gives him the Attribute [Blood Weave]. He can now see the diamond strings inside Memories, and the shadows of every creature he has killed standing in his Sea of Soul."
+                },
+                {
+                "chapter": 83,
+                "text": "Reads the enchantments of his Memories. [Puppeteer's Shroud] is tier V with [Enhanced Durability] and [Doubtless], which gives a small protection against mind attacks. [Silver Bell] is tier one Dormant and extends how far its ringing carries. [Midnight Shard] is tier III with [Unbroken], which makes it durable and enhances the wielder when near death, but only if the wielder refuses to surrender."
+                },
+                {
+                "chapter": 85,
+                "text": "[Mark of Divinity] evolves into [Spark of Divinity]. [Blood Weave] reads: 'You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity.'"
+                },
+                {
+                "chapter": 86,
+                "text": "Learns from Cassie that his hidden fifth Attribute is [Enthralled], placed on him by the Soul Devouring Tree."
+                },
+                {
+                "chapter": 91,
+                "text": "Sets the candle and the pile of leaves on the Ashen Barrow so they ignite after he leaves, then launches the boat."
+                },
+                {
+                "chapter": 94,
+                "text": "Dives into the black sea and cuts a tentacle off Cassie with the [Midnight Shard], rescuing her."
+                }
+            ]
+            },
+
+        {
+            "cid": "Nephis",
+            "details": [
+                {
+                "chapter": 19,
+                "text": "First seen outside the Awakened Academy as a tall, silver-haired girl with grey eyes and old-fashioned headphones, wearing a police-issued tracksuit."
+                },
+                {
+                "chapter": 24,
+                "text": "Ranked first on the Academy board, with the name Nephis and the True Name Changing Star."
+                },
+                {
+                "chapter": 27,
+                "text": "Loses a sparring match to Caster by a hair. Caster reveals she is Nephis of the Immortal Flame clan, whose parents were Smile of Heaven and Broken Sword, and that the clan is gone."
+                },
+                {
+                "chapter": 34,
+                "text": "Seen in the labyrinth with Cassie."
+                },
+                {
+                "chapter": 35,
+                "text": "Fomrmally meets Sunny."
+                },
+                {
+                "chapter": 36,
+                "text": "Dismisses and re-summons her memory golden rope."
+                },
+                {
+                "chapter": 37,
+                "text": "Lists her Memories as the rope and a sword that can protect against soul attacks. She says her Ability 'can be used to heal.' She has given her armor to Cassie."
+                },
+                {
+                "chapter": 38,
+                "text": "Her sword and armor came from her First Nightmare, and most of her family's Memories were lost or sold after her father died."
+                },
+                {
+                "chapter": 41,
+                "text": "Takes Sunny's soul shards in exchange for teaching him combat, and shares a shard with Cassie."
+                },
+                {
+                "chapter": 43,
+                "text": "Her longsword is a narrow double-edged blade of silver with a cross-shaped guard and a handle wrapped in black leather."
+                },
+                {
+                "chapter": 51,
+                "text": "Absorbs the soul shards of eight dead scavengers."
+                },
+                {
+                "chapter": 53,
+                "text": "Heals Sunny with white flame, in great pain. Confirms her Flaw is that using her Ability feels like burning alive."
+                },
+                {
+                "chapter": 54,
+                "text": "Receives the Awakened-rank [Starlight Legion Armor] from Sunny."
+                },
+                {
+                "chapter": 74,
+                "text": "Transfers the Memory from the Carapace Demon, the [Midnight Shard], to Sunny and declines to keep it, saying her sword suits her."
+                },
+                {
+                "chapter": 88,
+                "text": "Tells Sunny to say 'Aster... Song... Vale' to make her listen when her memory fades."
+                },
+                {
+                "chapter": 93,
+                "text": "Dragged under the sea by a tentacle, leaving her silver sword behind in its flesh."
+                },
+                {
+                "chapter": 95,
+                "text": "Returns from the sea almost dead, and heals herself with white flame."
+                }
+            ]
+            },
+
+        {
+            "cid": "Cassie",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+
+        {
+            "cid": "Rain",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Caster",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Shifty",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Scholar",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Hero",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Jet",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Rock",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Julius",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Smile of Heaven",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Broken Sword",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Immortal Flame",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Gunlaug",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Kai",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Effie",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Harper",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                }
+            ]
+        },
+        {
+            "cid": "Gemma",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Tessai",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Kido",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Seishan",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Harus",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Jubei",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Aiko",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Andel",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Stephen",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "First Lord",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "Stone Saint",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "insertname",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        },
+        {
+            "cid": "insertname",
+            "details":[
+                {
+                    "chapter": 1,
+                    "text": "insert details about character3"
+                },
+                {
+                    "chapter": 2,
+                    "text": "insert details about same character3"
+                }
+            ]
+        }
+    ]
+}

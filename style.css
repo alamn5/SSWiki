@@ -16,6 +16,8 @@ body{
     background-image: url('icons/tempsky.jpg');
     background-repeat: no-repeat; 
     background-size: cover; 
+    background-position: center center;
+    background-attachment: fixed;
 
     min-height: 100vh;
     min-height: 100dvh;
@@ -175,7 +177,7 @@ main {
     gap: 1.5rem; /*space between the image and .maintwo */
 }
 
-.maintwo{
+#maintwo{
     display: flex;
     flex-direction: column;
     gap: 1.5rem; /* space between ch title and summary*/
@@ -207,6 +209,7 @@ main {
 /* character stuff */
 
 #character-main {
+    background: transparent;
     flex: 1;
     min-width: 0;
     padding: 1.5rem;
@@ -269,6 +272,29 @@ main {
 #character-select-bar ul li:active{
     background-color: var(--scnd-base-color);
 }
+
+/**********************character detail page **********************************************/
+.character-details-layout {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 25px;
+    width: 100%;
+    background: transparent;
+}
+
+#character-image {
+    width: 280px;
+    height: 400px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+#character-info {
+    flex: 1;
+    min-width: 0;
+}
+
 /********************* character text & formatting **********************/
 
 #character-text {
@@ -329,6 +355,7 @@ main {
 
 
 /* character stuff end*/
+
 
 /********************* misc **********************/
 p{
