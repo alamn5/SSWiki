@@ -1,68 +1,282 @@
 {
-    "memories":[
+  "memories": [
+    {
+      "memory_name": "Silver Bell",
+      "chapter_introduced": 8,
+      "details": [
         {
-            "memory_name": "Silver Bell",
-            "chapter_introduced": 8
+          "chapter": 8,
+          "text": "A small keepsake from a long-lost home that once brought its owner comfort and joy. Its clear ringing can be heard from miles away."
         },
         {
-            "memory_name": "Puppeteers Shroud",
-            "chapter_introduced": 15
-        },
-        {
-            "memory_name": "Azure Blade",
-            "chapter_introduced": 33
-        },
-        {
-            "memory_name": "Starlight Legion Armor",
-            "chapter_introduced": 52
-        },
-        {
-            "memory_name": "Midnight Shard",
-            "chapter_introduced": 74
-        },
-        {
-            "memory_name": "Drop of Ichor",
-            "chapter_introduced": 81
-        },
-        {
-            "memory_name": "Ordinary Rock",
-            "chapter_introduced": 104
-        },
-        {
-            "memory_name": "Prowling Thorn",
-            "chapter_introduced": 104
-        },
-        {
-            "memory_name": "Endless Spring",
-            "chapter_introduced": 104
-        },
-        {
-            "memory_name": "Blood Arrow",
-            "chapter_introduced": 204
-        },
-        {
-            "memory_name": "Zenith Shard",
-            "chapter_introduced": 221
-        },
-        {
-            "memory_name": "Blood Blossom",
-            "chapter_introduced": 241
-        },
-        {
-            "memory_name": "Dark Wing",
-            "chapter_introduced": 241
-        },
-        {
-            "memory_name": "Dusk Shard",
-            "chapter_introduced": 261
-        },
-        {
-            "memory_name": "Weavers Mask",
-            "chapter_introduced": 278
-        },
-        {
-            "memory_name": "Dawn Shard",
-            "chapter_introduced": 255
+          "chapter": 83,
+          "text": "Dormant rank, tier I, with a single spark of light. An enchantment extends how far its ringing carries."
         }
-    ]
+      ]
+    },
+    {
+      "memory_name": "Puppeteers Shroud",
+      "chapter_introduced": 15,
+      "details": [
+        {
+          "chapter": 15,
+          "text": "Awakened rank. Taken from Mountain King, an Awakened Tyrant."
+        },
+        {
+          "chapter": 24,
+          "text": "Awakened-rank armor. A righteous king was hollowed out from within by a Puppeteer Worm of doubt and became its puppet. When the worm escaped the corpse it left behind a cocoon of black silk, which people later found among the gnawed bones in the silent castle and fashioned into armor. It forms light, silent armor of dark-grey cloth and black leather that gives the wearer a faint calm."
+        },
+        {
+          "chapter": 83,
+          "text": "Tier V, with five glowing embers, meaning it came from a five-core tyrant. Enchantments: [Enhanced Durability] and [Doubtless], which gives a small protection against mind attacks."
+        }
+      ]
+    },
+    {
+      "memory_name": "Azure Blade",
+      "chapter_introduced": 33,
+      "details": [
+        {
+          "chapter": 33,
+          "text": "Awakened rank. Dropped by a Carapace Scavenger, an awakened beast."
+        },
+        {
+          "chapter": 34,
+          "text": "Awakened-rank weapon. 'On this forgotten shore, only steel remembers.' A light sword about a meter long including the handle, with a straight single-edged blade ending in an angular tip, made of layered azure steel with white sparks deep inside. It has a minimal crossguard and a handle long enough for two hands, and resembles a tang dao. Shadow wrapped around it turns the blade bluish-black, like a starry sky."
+        },
+        {
+          "chapter": 71,
+          "text": "Destroyed. It shattered near the crossguard."
+        },
+        {
+          "chapter": 74,
+          "text": "Tier I, two tiers below the Midnight Shard."
+        }
+      ]
+    },
+    {
+      "memory_name": "Endless Spring",
+      "chapter_introduced": 36,
+      "details": [
+        {
+          "chapter": 36,
+          "text": "A beautiful bottle of patterned blue glass that is always full of cool water."
+        },
+        {
+          "chapter": 104,
+          "text": "Dormant-rank tool, tier IV. A lovesick devil imprisoned a mighty river in this fragile glass bottle as a gift for a beautiful desert spirit. Enchantment: [Gift of Water], which holds enough water to make flowers bloom in the most lifeless desert."
+        }
+      ]
+    },
+    {
+      "memory_name": "Starlight Legion Armor",
+      "chapter_introduced": 52,
+      "details": [
+        {
+          "chapter": 54,
+          "text": "Awakened-rank armor. Born in all-consuming darkness, seven valiant heroes swore an oath to return light to a cursed land. Time has erased their names and faces, but the memory of the oath remains. It forms a black skintight bodysuit under white plate: greaves, vambraces, pauldrons, rerebraces, cuisses, sabatons, a breastplate engraved with seven stars matching the statue's, and a helmet with a white plume."
+        }
+      ]
+    },
+    {
+      "memory_name": "Midnight Shard",
+      "chapter_introduced": 74,
+      "details": [
+        {
+          "chapter": 74,
+          "text": "Awakened-rank weapon, tier III, from a Carapace Demon. Forged from the shard of a fallen star, it is firm and unyielding, and favors those willing to fight to the last drop of blood and never surrender. A slightly curved, single-edged tachi 70 to 80 centimeters long, with a long two-handed hilt of polished black wood, a round crossguard, and a very sharp blade of the same bright, lustrous metal as the Carapace Demon's armor. It has no ornament."
+        },
+        {
+          "chapter": 83,
+          "text": "Enchantment: [Unbroken]. The blade refuses to break and is durable beyond reason. It greatly enhances its wielder when close to death, but only if the wielder is unwilling to surrender."
+        },
+        {
+          "chapter": 262,
+          "text": "One of seven Shard Memories. Five are accounted for (Dawn, Zenith, Dusk, Midnight, and Moonlight), and two remain unknown."
+        }
+      ]
+    },
+    {
+      "memory_name": "Drop of Ichor",
+      "chapter_introduced": 81,
+      "details": [
+        {
+          "chapter": 81,
+          "text": "Rank and type: unknown. The loathsome Thieving Bird, hated by the gods and by an untranslated party, cared only for shiny things. It stole one of Weaver's eyes on a starless night and looked at it in flight, saw the reflection of an untranslated something frozen in the pupil, went mad, and dropped the eye. Only one drop of pure golden ichor was left in its beak. Summoned, it floats as a golden drop, and the Spell asks if the wielder wishes to consume it."
+        },
+        {
+          "chapter": 82,
+          "text": "Consuming it causes severe pain and leaves a faint golden shine in the blood."
+        },
+        {
+          "chapter": 83,
+          "text": "Consuming it grants the Attribute [Blood Weave]."
+        },
+        {
+          "chapter": 93,
+          "text": "Identified by Nephis as a 'Lineage Memory.'"
+        }
+      ]
+    },
+    {
+      "memory_name": "Ordinary Rock",
+      "chapter_introduced": 96,
+      "details": [
+        {
+          "chapter": 96,
+          "text": "A plain grey rock that speaks, repeating words it has been given."
+        },
+        {
+          "chapter": 104,
+          "text": "Awakened-rank tool, tier I. Just an ordinary rock. Enchantment: [Not Really]. The word is mightier than the sword, and the rock is mightier than the word. It can repeat various sounds."
+        }
+      ]
+    },
+    {
+      "memory_name": "Prowling Thorn",
+      "chapter_introduced": 104,
+      "details": [
+        {
+          "chapter": 104,
+          "text": "Awakened-rank weapon, tier II. A flying dagger as unpredictable and fickle as a young beauty's affection, though perhaps less deadly. Enchantment: [Rose of Betrayal]. It is connected to its wielder by an invisible string, strong but mercurial, like the treacherous bond of sentimental attachment."
+        },
+        {
+          "chapter": 199,
+          "text": "A triangular, kunai-style throwing dagger."
+        }
+      ]
+    },
+    {
+      "memory_name": "Blood Arrow",
+      "chapter_introduced": 204,
+      "details": [
+        {
+          "chapter": 204,
+          "text": "Ascended-rank bow, tier I. A debt of blood must be paid in blood. Enchantments: [Rain of Blood], arrows made from the wielder's blood that can rain on enemies as long as the archer has any blood left; and [Restitution], where an arrow that hits drinks the prey's blood and restores what was taken from the archer, while an arrow that misses loses that blood forever."
+        },
+        {
+          "chapter": 220,
+          "text": "No enchantment needs soul essence to activate. In inexperienced hands it mostly endangers the archer, who can be drained into a bloodless husk."
+        },
+        {
+          "chapter": 222,
+          "text": "Creatures wounded by it, even higher-ranked ones, are doomed to a torturous death."
+        },
+        {
+          "chapter": 318,
+          "text": "Summoning it leaves the archer weakened each time."
+        }
+      ]
+    },
+    {
+      "memory_name": "Zenith Shard",
+      "chapter_introduced": 221,
+      "details": [
+        {
+          "chapter": 221,
+          "text": "A beautiful bronze spear. A tier-five Awakened Memory, inherited by Effie from a huntress who dealt the finishing blow to a giant spider tyrant."
+        },
+        {
+          "chapter": 262,
+          "text": "One of seven Shard Memories. Five are accounted for (Dawn, Zenith, Dusk, Midnight, and Moonlight), and two remain unknown."
+        }
+      ]
+    },
+    {
+      "memory_name": "Blood Blossom",
+      "chapter_introduced": 241,
+      "details": [
+        {
+          "chapter": 242,
+          "text": "Awakened-rank charm, tier II. No matter how much blood was spilled, her hunger only grew. Enchantment: [Flower of Evil], an aura that fills all Memories, Echoes, and Shadows of the wielder with an unquenching thirst for blood. They are enhanced overall against a bleeding foe, and grow more powerful the more their prey bleeds."
+        },
+        {
+          "chapter": 255,
+          "text": "Worn as an intricate pendant on a thread around the neck, with two embers inside it."
+        }
+      ]
+    },
+    {
+      "memory_name": "Dark Wing",
+      "chapter_introduced": 241,
+      "details": [
+        {
+          "chapter": 242,
+          "text": "Awakened-rank garment (a cloak), tier I. It is as light as a dragonfly's wing and as durable. Enchantment: [Glide], which lets the wearer hover slightly above the ground and move slowly in any direction, or glide softly down from any height."
+        }
+      ]
+    },
+    {
+      "memory_name": "Dawn Shard",
+      "chapter_introduced": 255,
+      "details": [
+        {
+          "chapter": 255,
+          "text": "A metal headband left by the First Lord, woven from sparks of light on the wearer's forehead, with a bright gemstone in the center. Another Shard Memory. It has a single, very powerful enchantment that empowers all Memories around it over a very large area, with a larger enhancement than the area suggests."
+        },
+        {
+          "chapter": 258,
+          "text": "Also called the Crown of Dawn."
+        }
+      ]
+    },
+    {
+      "memory_name": "Dusk Shard",
+      "chapter_introduced": 261,
+      "details": [
+        {
+          "chapter": 261,
+          "text": "Ascended-rank weapon, tier II, a heavy round shield of dull, lusterless dark steel. Forged from a shard of a fallen star, it holds the weight of the heavens. Depending on the wielder's heart, it can be light as a feather or heavy as regret. Enchantment: [Indomitable], which changes its weight at its master's will."
+        },
+        {
+          "chapter": 262,
+          "text": "One of seven Shard Memories. It takes six to eight seconds to weave into existence when summoned."
+        }
+      ]
+    },
+    {
+      "memory_name": "Moonlight Shard",
+      "chapter_introduced": 261,
+      "details": [
+        {
+          "chapter": 262,
+          "text": "Ascended-rank weapon, tier I. When the stars were extinguished and fell, a lonely moon remained, grew dim, withered, and died. As its last moonlight was devoured by darkness, one small shard was forged into this subtle blade. Enchantment: [Unseen], which makes the blade appear in the wielder's hand instantly, with no weaving delay. A graceful stiletto with a long, needle-pointed blade of clear, misty glass as strong as steel, a simple crossguard, and a handle of glossy black wood. One of seven Shard Memories."
+        }
+      ]
+    },
+    {
+      "memory_name": "Weavers Mask",
+      "chapter_introduced": 278,
+      "details": [
+        {
+          "chapter": 278,
+          "text": "Divine-rank tool, tier VII. Weaver believed knowledge was the origin of power and hid behind countless lies like a mantle. No one knew Weaver's thoughts, face, or heart, not even the gods. Enchantments: [Mantle of Lies], which hides its master's identity so completely that detection abilities such as Cassie's cannot work on the wearer; one enchantment whose name is unreadable; and [Simple Trick]. A black mask."
+        }
+      ]
+    },
+    {
+      "memory_name": "Sunlight Shard",
+      "chapter_introduced": 281,
+      "details": [
+        {
+          "chapter": 281,
+          "text": "One of seven Shard Memories. Its fate is unknown."
+        },
+        {
+          "chapter": 307,
+          "text": "A mason's hammer, held by Seishan. The sixth Shard Memory, belonging to the walking colossus, the statue of the Builder."
+        }
+      ]
+    },
+    {
+      "memory_name": "Starlight Shard",
+      "chapter_introduced": 281,
+      "details": [
+        {
+          "chapter": 281,
+          "text": "One of seven Shard Memories. Its fate is unknown."
+        }
+      ]
+    }
+  ]
 }

@@ -1,88 +1,6 @@
-const sidebar = document.getElementById('sidebar')
-const toggleButton = document.getElementById('toggle-btn')
+import { chapter } from "./chapter.js";
+import "./sidebar.js";
 
-function toggleSideBar(button){
-   sidebar.classList.toggle('close') //on off with toggle <-- close is 'made' with the css 
-   //toggleButton.classList.toggle('rotate')
-   sidebar.getElementsByClassName('show')
-}
-
-function toggleSubMenu(button){
-    button.nextElementSibling.classList.toggle('show') //sibling is for adjacent elements, so next element in the toggle menu on the same level
-    //button.classList.toggle('rotate')
-
-    if(sidebar.classList.contains('close')){
-        sidebar.classList.toggle('close')
-        //toggleButton.classList.toggle('rotate')
-    }
-}
-
-/////////////////////////////////////////////////////
-//for chapter select -- this is the part in index.html where it says js will inject options
-const chapter = document.getElementById('chapter-select')
-for (let i = 1; i < 100; i++) {
-  //create a new <option> element
-  const option = document.createElement('option');
-  //iterating over i value and assigning that to option
-  option.value = i; //we use this value for our data parsing
-  option.textContent = i; //this is the text thats printed to the user for chapter selection
-  //append it to the dropdown
-  chapter.appendChild(option);
-}
-/////////////////////////////////////////////////////
-
-//
-
-///////////// for grabbing chapter-title from chapters.json
-chapter.value = localStorage.getItem("selectedChapter") || "1";
-//loads the previously selected chapter, or Chapter 1 by default
-
-fetch("jsondata/chapters.json")
-    .then(response => response.json())
-    .then(data => {
-        const chapters = data.chapters;
-
-        const titleElement = document.getElementById("chapter-title");
-        const summaryElement = document.getElementById("chapter-summary");
-
-        // Load saved chapter content if this page has the content elements
-        function displayChapter(chapterId) {
-            const chapterData = chapters.find(
-                ch => ch.chapter_id === Number(chapterId)
-            );
-
-            if (!chapterData) return;
-
-            if (titleElement) {
-                titleElement.textContent = chapterData.chapter_title;
-            }
-
-            if (summaryElement) {
-                summaryElement.innerHTML = chapterData.chapter_summary;
-            }
-        }
-
-        //display the saved chapter when the page loads
-        displayChapter(chapter.value);
-
-        //allow chapter selection on every page
-        document.getElementById("chapter").addEventListener("submit", function(event) {
-            event.preventDefault();
-
-            const selectedId = chapter.value;
-
-            localStorage.setItem("selectedChapter", selectedId);
-
-            displayChapter(selectedId);
-
-            if(loadedCharacter){ //to update character when reloaded chapter
-                displayCharacterDetails(loadedCharacter);
-            }
-        });
-    })
-    .catch(error => {
-        console.error("Error loading chapters:", error);
-    });
 ////////////////////////////////////////////////////////////////////////////////////////
 //characters
 
@@ -128,8 +46,10 @@ if(characterButtons.length > 0){
                 characterText.innerHTML = "";
 
                 if (filteredCharacters.length === 0) {
-                    characterText.textContent = "No characters found.";
-                    return;
+                    characterText.textContent = "No characters with " + selectedLetter + " found.";
+                    letter = "all"
+                    filteredCharacters = availableCharacters;
+                    //return;
                 }
 
                 //this part is to put the alphabetical heading above each character section / divide them alphabetically
@@ -198,7 +118,7 @@ if(characterButtons.length > 0){
 //ok so we've generated each character, we need to make it so they actually do something when clicked
 //recall we're using --> localStorage.getItem("selectedCharacter");
 const selectedCharacter = localStorage.getItem("selectedCharacter");
-const characterInfo = document.getElementById("character-info");
+const characterInfo = document.getElementById("character-history");
 
 console.log("Selected character:", selectedCharacter);
 console.log("Character info element:", characterInfo);
@@ -222,6 +142,10 @@ if(characterInfo) {
                 );
                 loadedCharacter = character;
 
+                if (loadedCharacter) { //display overview right away when character is selected
+                    displayOverview(loadedCharacter);
+                }
+
                 console.log("Matched character:", character);
 
                 if (!character) {
@@ -236,7 +160,7 @@ if(characterInfo) {
                 characterImage.src = character.image;
                 characterImage.alt = character.cid + "image";
 
-                displayCharacterDetails(character);
+                //displayCharacterDetails(character);
             })
             .catch(error => {
                 console.error("Error loading character details:", error);
@@ -267,4 +191,94 @@ function displayCharacterDetails(character){
         characterInfo.appendChild(chapterDiv);
     });
 }
+
+document.addEventListener("chapterChanged", () => { //referencing chapter.js when we dispatched the event, lets us reload on the character page if the chapter is changed
+    if (loadedCharacter) {
+        displayCharacterDetails(loadedCharacter);
+    }
+});
+
+const overviewButton = document.querySelectorAll("#character-menu-text")[0];//this grabs overview button 
+const historyButton = document.querySelectorAll("#character-menu-text")[1]; //this grabs chapter history button 
+const memoriesButton = document.querySelectorAll("#character-menu-text")[2]; //this grabs memories button 
+const abilitiesButton = document.querySelectorAll("#character-menu-text")[3]; //this grabs abilties button
+const galleryButton = document.querySelectorAll("#character-menu-text")[4]; //this grabs gallery button
+
+if (historyButton) {
+    historyButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayCharacterDetails(loadedCharacter); //actually displaying character history when its clicked
+        }
+    });
+}
+
+/////////////////////////////// 4 func wip
+function displayOverview(character) {
+    characterInfo.textContent = "Overview information coming soon...";
+}
+
+function displayMemories(character) {
+    characterInfo.textContent = "Memories information coming soon...";
+}
+
+function displayAbilities(character) {
+    characterInfo.textContent = "Abilities information coming soon...";
+}
+
+function displayGallery(character) {
+    characterInfo.textContent = "Gallery information coming soon...";
+}
+
+/////////////////////// 3 func if theyre clicked
+if (overviewButton) {
+    overviewButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayOverview(loadedCharacter);
+        }
+    });
+}
+
+if (historyButton) {
+    historyButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayCharacterDetails(loadedCharacter);
+        }
+    });
+}
+
+if (memoriesButton) {
+    memoriesButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayMemories(loadedCharacter);
+        }
+    });
+}
+
+if (abilitiesButton) {
+    abilitiesButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayAbilities(loadedCharacter);
+        }
+    });
+}
+
+if (galleryButton) {
+    galleryButton.addEventListener("click", () => {
+        if (loadedCharacter) {
+            displayGallery(loadedCharacter);
+        }
+    });
+}
+
+const menuItems = document.querySelectorAll("#character-menu-text");
+
+menuItems.forEach(item => {
+    item.addEventListener("click", () => {
+        menuItems.forEach(i => i.classList.remove("active"));
+        item.classList.add("active");
+    });
+});
+
+// start with Overview selected
+menuItems[0]?.classList.add("active");
 ///end of character details info/////////////////////////////////////

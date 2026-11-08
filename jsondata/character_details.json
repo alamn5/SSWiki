@@ -1,7 +1,7 @@
 {
     "character_details": [
         {
-            "cid": "Sunny",
+            "cid": "Sunny", 
             "image": "icons/sunny_main_img.png",
             "details": [
                 {
@@ -26,7 +26,7 @@
                 },
                 {
                 "chapter": 13,
-                "text": "Reveals that he squeezed Bloodbane juice into every recovered flagon except his own. He uses the [Silver Bell] to draw the blind Mountain King toward Hero, and the bell vanishes after he rings it."
+                "text": "Reveals that he squeezed Bloodbane juice into every recovered flagon except his own. He uses the [Silver Bell] to draw the blind Mountain King toward Hero."
                 },
                 {
                 "chapter": 14,
@@ -154,19 +154,15 @@
                 },
                 {
                 "chapter": 81,
-                "text": "The Memory is [Drop of Ichor], rank and type unknown. Its description says the Thieving Bird stole one of Weaver's eyes, went mad on seeing something unknown reflected in the pupil, dropped the eye, and kept only one drop of golden ichor. Parts of the text are untranslatable. He consumes it. His Shadow Fragments are 196 of 1000."
+                "text": "The Memory is [Drop of Ichor], rank and type unknown. Parts of the text are untranslatable. He consumes it. His Shadow Fragments are 196 of 1000."
                 },
                 {
                 "chapter": 82,
-                "text": "The ichor gives him the Attribute [Blood Weave]. He can now see the diamond strings inside Memories, and the shadows of every creature he has killed standing in his Sea of Soul."
-                },
-                {
-                "chapter": 83,
-                "text": "Reads the enchantments of his Memories. [Puppeteer's Shroud] is tier V with [Enhanced Durability] and [Doubtless], which gives a small protection against mind attacks. [Silver Bell] is tier one Dormant and extends how far its ringing carries. [Midnight Shard] is tier III with [Unbroken], which makes it durable and enhances the wielder when near death, but only if the wielder refuses to surrender."
+                "text": "The ichor gives him the Attribute [Blood Weave]. Also, he can now see the diamond strings inside Memories, and the shadows of every creature he has killed standing in his Sea of Soul."
                 },
                 {
                 "chapter": 85,
-                "text": "[Mark of Divinity] evolves into [Spark of Divinity]. [Blood Weave] reads: 'You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity.'"
+                "text": "[Mark of Divinity] evolves into [Spark of Divinity]. Description of [Blood Weave] is read."
                 },
                 {
                 "chapter": 86,
@@ -174,7 +170,7 @@
                 },
                 {
                 "chapter": 91,
-                "text": "Sets the candle and the pile of leaves on the Ashen Barrow so they ignite after he leaves, then launches the boat."
+                "text": "Sets the Ashen Barrow on fire to escape with Nephis and Cassie on a boat."
                 },
                 {
                 "chapter": 94,
@@ -185,6 +181,7 @@
 
         {
             "cid": "Nephis",
+            "image": "imageswithnocategory/placeholder.png",
             "details": [
                 {
                 "chapter": 19,
@@ -259,163 +256,308 @@
 
         {
             "cid": "Cassie",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 22,
+                "text": "First seen as a delicate, blind girl with pale blond hair, sitting alone in the corner of the induction hall."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 24,
+                "text": "Named as Cassia, last place in the rankings."
+                },
+                {
+                "chapter": 29,
+                "text": "Wishes Sunny a happy birthday, which he has forgotten."
+                },
+                {
+                "chapter": 35,
+                "text": "Wears a simple tunic, leather sandals, and a cloak the color of sea waves, and carries a wooden staff."
+                },
+                {
+                "chapter": 36,
+                "text": "Introduces herself as Cassie. Lends Sunny her Memory, a glass bottle that is always full of cool water."
+                },
+                {
+                "chapter": 37,
+                "text": "Lists three Memories: the bottle, a staff that creates wind, and an armor Nephis gave her. Her Ability lets her see people's Attributes and sometimes receive visions of the past or future."
+                },
+                {
+                "chapter": 38,
+                "text": "Has a vision of a castle full of Awakened people to the west."
+                },
+                {
+                "chapter": 44,
+                "text": "Describes a vision of seven seals, a burning castle, a crimson spire with seven severed heads, and a dying angel."
+                },
+                {
+                "chapter": 55,
+                "text": "Says she has seen more visions than she has told the group."
+                },
+                {
+                "chapter": 56,
+                "text": "Asks Sunny to promise to take care of Nephis no matter what. He refuses."
+                },
+                {
+                "chapter": 65,
+                "text": "Describes a vision of the Carapace Demon's past battle that reveals a weak spot in his chest armor."
+                },
+                {
+                "chapter": 69,
+                "text": "Covers Sunny's eyes and tells him not to look when the fog creature arrives."
+                },
+                {
+                "chapter": 84,
+                "text": "Sunny remembers that she woke him after the Carapace Demon was killed and begged him to remember the number five, saying she would soon forget."
+                },
+                {
+                "chapter": 86,
+                "text": "Reads Sunny's hidden fifth Attribute, [Enthralled], which breaks the Soul Tree's hold on his mind."
+                },
+                {
+                "chapter": 92,
+                "text": "Hugs Sunny and thanks him after the escape."
+                },
+                {
+                "chapter": 94,
+                "text": "Nearly drowned by a tentacle in the sea, and rescued by Sunny."
                 }
             ]
         },
 
         {
             "cid": "Rain",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 1,
+                "text": "Sunny's little sister, named in the same poetic spirit as him, back when she still lived with the family."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 41,
+                "text": "Sunny thinks of her while guiding Cassie. As a toddler she followed him around as though they were glued together."
                 }
             ]
         },
         {
             "cid": "Caster",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 20,
+                "text": "First seen as a tall, handsome young man with brown hair and green eyes, surrounded by admirers after revealing an Ascended Aspect with an 'excellent' appraisal."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 21,
+                "text": "Named Caster. A companion says he is a Legacy, a descendant of an Awakened clan trained for the Spell since birth. He responds kindly when Sunny mocks his appraisal."
+                },
+                {
+                "chapter": 25,
+                "text": "Introduces himself to Nephis as Caster of the Han Li clan and calls her 'Lady Nephis.'"
+                },
+                {
+                "chapter": 27,
+                "text": "Defeats Nephis in a sparring match by a hair, and reveals her family history."
                 }
             ]
         },
         {
             "cid": "Shifty",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 2,
+                "text": "A nervous, quick-tempered slave in the caravan who insults Sunny."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 3,
+                "text": "Nearly eats poisonous Bloodbane berries before Scholar warns him."
+                },
+                {
+                "chapter": 4,
+                "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms."
+                },
+                {
+                "chapter": 5,
+                "text": "Freed from his shackles by Sunny."
+                },
+                {
+                "chapter": 8,
+                "text": "Steals valuables from the dead soldiers instead of looking for warm clothes."
+                },
+                {
+                "chapter": 10,
+                "text": "Sick from the climb and from poisoned water, he slips on the icy slope and falls to his death."
                 }
             ]
         },
         {
             "cid": "Scholar",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 2,
+                "text": "A gentle-voiced slave in the caravan."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 3,
+                "text": "A scholar-like man in his forties. He warns Shifty that the red berries along the road are poisonous Bloodbane."
+                },
+                {
+                "chapter": 4,
+                "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms."
+                },
+                {
+                "chapter": 9,
+                "text": "Remembers an older pilgrim path that lets the survivors climb past a rockfall."
+                },
+                {
+                "chapter": 11,
+                "text": "Proposes making Sunny bleed and leaving him as bait for Mountain King."
+                },
+                {
+                "chapter": 12,
+                "text": "Hero reveals he knows Scholar's identity ('Your Grace') and crimes, then cripples him and leaves him on the path as bait."
                 }
             ]
         },
         {
             "cid": "Hero",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 2,
+                "text": "A young soldier in the slave caravan who tries to give Sunny water, and is threatened by an older soldier."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 5,
+                "text": "Kills a larva with a single sword strike and throws Sunny the key to his shackles. Sunny uses it to free himself, Shifty, and Scholar."
+                },
+                {
+                "chapter": 6,
+                "text": "Fights Mountain King to distract it while Sunny sets up the wagon."
+                },
+                {
+                "chapter": 7,
+                "text": "Nicknamed Hero by Sunny. Proposes waiting until sunrise, and promises to free the slaves afterward."
+                },
+                {
+                "chapter": 12,
+                "text": "Reveals he knows Scholar's identity ('Your Grace') and crimes, breaks Scholar's legs, and leaves him on the path as bait."
+                },
+                {
+                "chapter": 13,
+                "text": "Admits he planned to kill Sunny in his sleep. Reveals his Soul Core has long been Awakened, which makes him immune to Sunny's Bloodbane."
+                },
+                {
+                "chapter": 14,
+                "text": "Seized by Mountain King after Sunny rings the Silver Bell."
+                },
+                {
+                "chapter": 15,
+                "text": "The Spell's appraisal lists an awakened human named Auro of the Nine among Sunny's defeated enemies."
                 }
             ]
         },
         {
             "cid": "Jet",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 17,
+                "text": "An Ascended government Awakened with three stars, also called Master Jet. She watches over Sunny for three days and explains the progression of Sleeper, Awakened, Master, and Saint."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 18,
+                "text": "Recommends the Awakened Academy and tells Sunny to keep his Aspect and Flaw secret."
+                },
+                {
+                "chapter": 19,
+                "text": "Gives Sunny three pieces of advice: refuse counseling, take only Wilderness Survival, and build relationships with other Sleepers."
+                },
+                {
+                "chapter": 25,
+                "text": "Teacher Julius calls her Soul Reaper Jet and says her Abilities strike soul cores directly."
                 }
             ]
         },
         {
             "cid": "Rock",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 22,
+                "text": "A giant, bearded Awakened who introduces himself as Awakened Rock. He addresses the new Sleepers and warns them that the Spell is merciless."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 23,
+                "text": "Explains Nightmares versus the Dream Realm, and advises reaching a human Citadel."
+                },
+                {
+                "chapter": 26,
+                "text": "Runs the combat class where Nephis and Caster stand out."
+                },
+                {
+                "chapter": 29,
+                "text": "Leads the Sleepers to the medical center and shows them the Hollow."
                 }
             ]
         },
         {
             "cid": "Julius",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                "chapter": 25,
+                "text": "An old Awakened Wilderness Survival instructor with bushy eyebrows, delighted to have a student."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                "chapter": 28,
+                "text": "Teaches Sunny survival skills and the dead languages of the Dream Realm."
+                },
+                {
+                "chapter": 29,
+                "text": "Says goodbye to Sunny before the solstice and promises to apply for a research assistant position once he is Awakened."
                 }
             ]
         },
         {
             "cid": "Smile of Heaven",
-            "details":[
+            "image": "imageswithnocategory/placeholder.png",
+            "details": [
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
+                    "chapter": 25,
+                    "text": "Mentioned as a rare exception who received her True Name in her First Nightmare."
                 },
                 {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                    "chapter": 27,
+                    "text": "Caster reveals she is one of Nephis's parents, along with Broken Sword."
                 }
             ]
         },
         {
             "cid": "Broken Sword",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                    "chapter": 27,
+                    "text": "Caster reveals he is one of Nephis's parents, along with Smile of Heaven. He was the first human to conquer the Third Nightmare and become a Saint, and he and the Immortal Flame clan's head failed to protect their family from being killed."
                 }
             ]
         },
         {
             "cid": "Immortal Flame",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
+                    "chapter": 27,
+                    "text": "Nephis's grandfather and the first human to conquer the Second Nightmare and become a Master."
                 }
             ]
         },
         {
             "cid": "Gunlaug",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
@@ -429,6 +571,7 @@
         },
         {
             "cid": "Kai",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
@@ -442,6 +585,7 @@
         },
         {
             "cid": "Effie",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
@@ -455,6 +599,7 @@
         },
         {
             "cid": "Harper",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
@@ -464,6 +609,7 @@
         },
         {
             "cid": "Gemma",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
@@ -477,6 +623,7 @@
         },
         {
             "cid": "Tessai",
+            "image": "imageswithnocategory/placeholder.png",
             "details":[
                 {
                     "chapter": 1,
