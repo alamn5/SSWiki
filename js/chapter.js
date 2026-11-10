@@ -46,6 +46,16 @@ fetch("jsondata/chapters.json")
         //display the saved chapter when the page loads
         displayChapter(chapter.value);
 
+        // Automatically update the chapter title when chapter is changed, on a different screen thats not index.html this helps changes
+        chapter.addEventListener("change", () => {
+            const selectedId = chapter.value;
+
+            localStorage.setItem("selectedChapter", selectedId);
+            displayChapter(selectedId);
+
+            document.dispatchEvent(new Event("chapterChanged"));
+        });
+
         //allow chapter selection on every page
         document.getElementById("chapter").addEventListener("submit", function(event) {
             event.preventDefault();
@@ -87,4 +97,4 @@ fetch("jsondata/chapters.json")
         console.error("Error loading chapters:", error);
     });
 
-    export { chapter };
+    export { chapter }; //need this in character details

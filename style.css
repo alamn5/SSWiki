@@ -358,12 +358,14 @@ main {
     background: transparent;
 }
 
-#character-image {
+#character-image { /* on the character detail page, this is the image on the rightside of said character*/
     width: 450px;
     height: 642px;
     object-fit: cover;
     flex-shrink: 0;
+    
 }
+
 
 /* Shared character information box */
 #character-history {

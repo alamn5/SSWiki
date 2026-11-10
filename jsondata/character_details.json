@@ -176,6 +176,13 @@
                 "chapter": 94,
                 "text": "Dives into the black sea and cuts a tentacle off Cassie with the [Midnight Shard], rescuing her."
                 }
+            ],
+            
+            "placeholder":[
+                {
+                    "chapter": 1,
+                    "placeholderinfo": "placedholderinfo"
+                }
             ]
             },
 
