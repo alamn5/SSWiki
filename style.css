@@ -1,3 +1,5 @@
+@import url("effect.css"); /*for the star effect */
+
 :root{
     --base-color: #040a14;
     --hover-color: #254a7a;
@@ -5,6 +7,9 @@
     --scnd-base-color: #f0d79a;
     --txt-color: #f8f6ee;
     --scnd-hover-color: #fffffe;
+
+    --shadow-color: #3b26710c;
+    --shadow-color-light: rgba(196, 167, 0, 0.533);
 
 }
 
@@ -15,6 +20,7 @@ html{
 
 body{
     background-image: url('icons/tempsky.jpg');
+    
     background-repeat: no-repeat; 
     background-size: cover; 
     background-position: center center;
@@ -600,3 +606,54 @@ main > img   { animation: surface 500ms ease-out both; }
 #back-button:hover { transform: translateX(-4px); }
 
 .character-details-layout { animation: surface 500ms ease-out both; }
+
+
+/*this is for character overview (true name title */
+@font-face {
+  font-family: 'MyCustomFont';
+  src: url('./css/GreatVibes.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+  font-display: swap;
+}
+
+h1.true-name{
+    font-family: 'MyCustomFont', sans-serif;
+    font-size: 120px;
+    color: white;
+    margin-top: 20px;
+    margin-left: 0px; /* have to override default h1*/
+    margin-bottom: 20px;
+    column-gap: 30px;
+    text-align: left;
+
+    box-sizing: border-box;
+    padding: 50px;
+
+    border-bottom: 1px solid var(--scnd-base-color);
+    
+
+    text-shadow: -1px -1px 1px var(--shadow-color-light), 
+    -1px 1px 1px var(--shadow-color-light), 
+    1px -1px 1px var(--shadow-color-light), 
+    1px 1px 1px var(--shadow-color-light),
+    0 0 3px var(--shadow-color-light), 
+    0 0 5px var(--shadow-color-light), 
+    0 0 10px var(--shadow-color-light),
+    0 0 20px var(--shadow-color), 
+    0 0 30px var(--shadow-color), 
+    0 0 40px var(--shadow-color), 
+    0 0 50px var(--shadow-color), 
+    0 0 70px var(--shadow-color), 
+    0 0 100px var(--shadow-color);
+      
+}
+
+p.alias-name {
+    font-family: 'MyCustomFont', sans-serif;
+    font-size: 25px;
+    background: none;
+    color: white;
+    margin: 0px;
+}
+/*this is THE END FOR character overview (true name title */

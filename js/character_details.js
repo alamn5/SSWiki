@@ -82,7 +82,37 @@ function displayHistory(character){
 
 
 function displayOverview(character) {
-    characterInfo.textContent = "Overview information coming soon...";
+    characterInfo.innerHTML = "";
+
+    //only show aliases up to the current chapter
+    const availableAliases = character.overview.aliases.filter(alias => alias.chapter <=  Number(chapter.value));
+    
+    //if that character has a true name
+    const trueName = availableAliases.find(alias => alias["true_name"] === true);
+
+    const nameTitle = document.createElement("h1");
+
+    //if we have a truename display it first
+    if(trueName){
+        nameTitle.textContent = trueName.text;
+    }
+    else{
+        nameTitle.textContent = character.cid;
+    }
+
+    //for styling we adding this class
+    nameTitle.classList.add("true-name");
+    characterInfo.appendChild(nameTitle);
+
+    availableAliases //exclude the true name if it was potentially added already
+        .filter(alias => alias["true_name"] !== true)
+        .forEach(alias => {
+            const aliasText = document.createElement("p");
+            aliasText.textContent = alias.text;
+            aliasText.classList.add("alias-name");
+
+            characterInfo.appendChild(aliasText);
+        });
 }
 
 function displayMemories(character) {
@@ -100,8 +130,28 @@ function displayGallery(character) {
 ///////////////////////////////////////////////////////////////////
 //if the chapter is changed on the detail page, stay on that tab and update it!
 document.addEventListener("chapterChanged", () => {
-    if (loadedCharacter && currentTab === "history") {
-        displayHistory(loadedCharacter);
+    if (!loadedCharacter) return;
+
+    switch (currentTab) {
+        case "overview":
+            displayOverview(loadedCharacter);
+            break;
+
+        case "history":
+            displayHistory(loadedCharacter);
+            break;
+
+        case "memories":
+            displayMemories(loadedCharacter);
+            break;
+
+        case "abilities":
+            displayAbilities(loadedCharacter);
+            break;
+
+        case "gallery":
+            displayGallery(loadedCharacter);
+            break;
     }
 });
 
