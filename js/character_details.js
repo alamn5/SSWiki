@@ -117,6 +117,9 @@ function displayOverview(character) {
 
 function displayMemories(character) {
     characterInfo.textContent = "Memories information coming soon...";
+
+    const availableMemories = character.overview.aliases.filter(alias => alias.chapter <=  Number(chapter.value));
+    //const availableMemories =
 }
 
 function displayAbilities(character) {

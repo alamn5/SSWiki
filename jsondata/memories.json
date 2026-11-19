@@ -6,7 +6,8 @@
       "details": [
         {
           "chapter": 8,
-          "text": "A small keepsake from a long-lost home that once brought its owner comfort and joy. Its clear ringing can be heard from miles away."
+          "text": "A small keepsake from a long-lost home that once brought its owner comfort and joy. Its clear ringing can be heard from miles away.",
+          "owner": "Sunny"
         },
         {
           "chapter": 83,
@@ -20,7 +21,8 @@
       "details": [
         {
           "chapter": 15,
-          "text": "Awakened rank. Taken from Mountain King, an Awakened Tyrant."
+          "text": "Awakened rank. Taken from Mountain King, an Awakened Tyrant.",
+          "owner": "Sunny"
         },
         {
           "chapter": 24,

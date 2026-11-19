@@ -91,7 +91,7 @@ if(characterButtons.length > 0){
             });
 
             //refresh the character list when a chapter is selected
-            document.getElementById("chapter").addEventListener("submit", () => {
+            document.getElementById("chapter").addEventListener("change", () => {
                 setTimeout(() => {
                     displayCharacters(selectedLetter);
                 }, 0);

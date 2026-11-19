@@ -678,7 +678,15 @@
                 "chapter": 10,
                 "text": "Sick from the climb and from poisoned water, he slips on the icy slope and falls to his death."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 5,
+                    "text": ""
+                }
+                ]
+            }
         },
         {
             "cid": "Scholar",
@@ -708,7 +716,15 @@
                 "chapter": 12,
                 "text": "Hero reveals he knows Scholar's identity ('Your Grace') and crimes, then cripples him and leaves him on the path as bait."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 12,
+                    "text": "Your Grace"
+                }
+                ]
+            }
         },
         {
             "cid": "Hero",
@@ -746,7 +762,21 @@
                 "chapter": 15,
                 "text": "Killed by Sunny. The Spell's appraisal lists him as an awakened human named Auro of the Nine."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 15,
+                    "text": "Auro of the Nine"
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 13,
+                    "text": "Awakened"
+                }
+                ]
+            }
         },
         {
             "cid": "Jet",
@@ -768,7 +798,24 @@
                 "chapter": 25,
                 "text": "Teacher Julius calls her Soul Reaper Jet and says her Abilities strike soul cores directly."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 17,
+                    "text": "Master Jet"
+                },
+                {
+                    "chapter": 17,
+                    "text": "Ascended Jet"
+                },
+                {
+                    "chapter": 25,
+                    "text": "Soul Reaper Jet",
+                    "true_name": true
+                }
+                ]
+            }
         },
         {
             "cid": "Rock",
@@ -790,7 +837,21 @@
                 "chapter": 29,
                 "text": "Leads the Sleepers to the medical center and shows them the Hollow."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 26,
+                    "text": "Instructor Rock"
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 22,
+                    "text": "Awakened"
+                }
+                ]
+            }
         },
         {
             "cid": "Julius",
@@ -808,7 +869,21 @@
                 "chapter": 29,
                 "text": "Says goodbye to Sunny before the solstice and promises to apply for a research assistant position once he is Awakened."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 28,
+                    "text": "Teacher Julius"
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 25,
+                    "text": "Awakened"
+                }
+                ]
+            }
         },
         {
             "cid": "Smile of Heaven",
@@ -822,7 +897,21 @@
                     "chapter": 27,
                     "text": "Caster reveals she is one of Nephis's parents, along with Broken Sword."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Broken Sword",
@@ -836,7 +925,21 @@
                     "chapter": 27,
                     "text": "He and the Immortal Flame clan's head failed to protect their family from being killed in the past."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Immortal Flame",
@@ -846,7 +949,21 @@
                     "chapter": 27,
                     "text": "Nephis's grandfather and the first human to conquer the Second Nightmare and become a Master."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Gunlaug",
@@ -868,7 +985,21 @@
                 "chapter": 149,
                 "text": "His Aspect Ability lets him breathe and move with incredible speed underwater. He arrived eight years ago and got his armor from a dying leviathan."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Kai",
@@ -906,7 +1037,21 @@
                 "chapter": 193,
                 "text": "Carries a falcata and a horn longbow."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Effie",
@@ -969,7 +1114,21 @@
                 "chapter": 162,
                 "text": "Killed by Sunny."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Gemma",
@@ -987,7 +1146,21 @@
                 "chapter": 153,
                 "text": "Presides over the challenge Nephis invokes against Andel."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Tessai",
@@ -997,7 +1170,21 @@
                 "chapter": 141,
                 "text": "Leads the Castle Guard, about 150 men. A morose giant, two years short of thirty, perhaps the oldest Sleeper on the Shore."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Kido",
@@ -1006,7 +1193,21 @@
                 "chapter": 142,
                 "text": "Leads the Artisans. Her Ability changes the attributes of plants, and she grows the castle's vegetables."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Seishan",
@@ -1015,7 +1216,21 @@
                 "chapter": 142,
                 "text": "Leads the Handmaidens, secretly teaching them self-defense. She is the first person to sense Sunny's shadow watching."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Harus",
@@ -1032,7 +1247,21 @@
                 "chapter": 191,
                 "text": "Follows Nephis's expedition alone."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Jubei",
@@ -1045,7 +1274,21 @@
                 "chapter": 145,
                 "text": "Killed by Harus."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Aiko",
@@ -1054,7 +1297,21 @@
                 "chapter": 150,
                 "text": "Runs the castle's gambling den. The Pathfinder Andel owes her soul shards."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Andel",
@@ -1067,7 +1324,21 @@
                 "chapter": 154,
                 "text": "Beheaded by Nephis in a challenge over his gambling debts."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Stephen",
@@ -1080,7 +1351,21 @@
                     "chapter": 2,
                     "text": "insert details about same character3"
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "First Lord",
@@ -1093,7 +1378,21 @@
                     "chapter": 2,
                     "text": "insert details about same character3"
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "Stone Saint",
@@ -1126,7 +1425,21 @@
                 "chapter": 189,
                 "text": "Reaches 27 of 200 Shadow Fragments."
                 }
-            ]
+            ],
+            "overview": {
+                "aliases": [
+                {
+                    "chapter": 1,
+                    "text": ""
+                }
+                ],
+                "rank": [
+                {
+                    "chapter": 1,
+                    "text": "insertrank"
+                }
+                ]
+            }
         },
         {
             "cid": "insertname",
