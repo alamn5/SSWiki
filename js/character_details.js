@@ -123,7 +123,38 @@ function displayMemories(character) {
 }
 
 function displayAbilities(character) {
-    characterInfo.textContent = "Abilities information coming soon...";
+    characterInfo.innerHTML = "";
+
+    const currentChapter = Number(chapter.value);
+    const availableAbilities = (character.abilities || [])
+        .filter(ability => ability.chapter <= currentChapter)
+
+    if (availableAbilities.length === 0) {
+        const emptyMessage = document.createElement("p");
+        emptyMessage.classList.add("ability-empty");
+        emptyMessage.textContent = "Information coming in a future update.";
+        characterInfo.appendChild(emptyMessage);
+        return;
+    }
+
+    availableAbilities.forEach(ability => {
+        const abilityDiv = document.createElement("div");
+        abilityDiv.classList.add("ability-entry");
+
+        //const chapterTitle = document.createElement("h2"); //dont know if i want this yet
+        //chapterTitle.textContent = "Chapter " + ability.chapter;
+        const abilityText = document.createElement("h3");
+        const abilityDescription = document.createElement("p");
+
+        
+        abilityText.textContent = ability.text;
+        abilityDescription.textContent = ability.description;
+
+        //abilityDiv.appendChild(chapterTitle);
+        abilityDiv.appendChild(abilityText);
+        abilityDiv.appendChild(abilityDescription);
+        characterInfo.appendChild(abilityDiv);
+    });
 }
 
 function displayGallery(character) {

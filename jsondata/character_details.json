@@ -1,1471 +1,675 @@
 {
-    "character_details": [
-        {
-            "cid": "Sunny", 
-            "image": "icons/sunny_main_img.png",
-            "details": [
-                {
-                "chapter": 1,
-                "text": "Infected by the Nightmare Spell. He spends most of his savings on real coffee, then surrenders to the police and gives the name Sunless."
-                },
-                {
-                "chapter": 2,
-                "text": "Given Aspect is [Temple Slave], and his Attributes are [Fated], [Mark of Divinity], and [Child of Shadows]."
-                },
-                {
-                "chapter": 4,
-                "text": "Kills the Mountain King's Larva by wrapping the caravan chain around it and strangling it, his first kill."
-                },
-                {
-                "chapter": 8,
-                "text": "Kills the dying veteran slaver and receives his first Memory, [Silver Bell]. He also takes the veteran's warm cloak and boots, and gathers water flagons from the dead."
-                },
-                {
-                "chapter": 9,
-                "text": "Leaves his short sword behind on the climb to reduce his weight."
-                },
-                {
-                "chapter": 13,
-                "text": "Reveals that he squeezed Bloodbane juice into every recovered flagon except his own. He uses the [Silver Bell] to draw the blind Mountain King toward Hero."
-                },
-                {
-                "chapter": 14,
-                "text": "Reaches the ruined Shadow God temple. The god's blessing kills Mountain King, and the Spell ends his First Nightmare."
-                },
-                {
-                "chapter": 15,
-                "text": "Receives the Memory [Puppeteer's Shroud], taken from Mountain King, an Awakened Tyrant. He receives the True Name [Lost from Light], and his Aspect evolves into [Shadow Slave], Divine rank, with the innate ability [Shadow Bond]. The appraisal lists his defeated enemies, including an awakened human named Auro of the Nine."
-                },
-                {
-                "chapter": 16,
-                "text": "Awakens a Shadow Core instead of a Soul Core, and learns the Aspect Ability [Shadow Control]. He progresses through Shadow Fragments instead of soul shards and starts with 12 of 1000. His two Memories appear as spheres orbiting the core."
-                },
-                {
-                "chapter": 17,
-                "text": "His Flaw is revealed as [Clear Conscience]: he cannot lie. He wakes in the police station and meets Master Jet."
-                },
-                {
-                "chapter": 18,
-                "text": "Finds that his shadow moves independently, and develops a sense for the shadows around him."
-                },
-                {
-                "chapter": 20,
-                "text": "Discovers he can control how he words true answers, and decides to hide his True Name by looking like a pathetic, unreliable Sleeper."
-                },
-                {
-                "chapter": 24,
-                "text": "Reads the description of the [Puppeteer's Shroud], an Awakened-rank armor made from the black silk cocoon of a Puppeteer Worm. It summons as light, silent armor of dark-grey cloth and black leather that gives him a faint calm and probably protects against mental attacks."
-                },
-                {
-                "chapter": 26,
-                "text": "Learns to detach his shadow and use it as a scout, sharing sight and hearing."
-                },
-                {
-                "chapter": 27,
-                "text": "Punches a strength machine for 9, then 18 with the shadow wrapped around his fist."
-                },
-                {
-                "chapter": 30,
-                "text": "Enters the Dream Realm on the Forgotten Shore and summons the [Puppeteer's Shroud] for clothes, stranded atop the neck of a headless statue."
-                },
-                {
-                "chapter": 33,
-                "text": "Pulls a bone from the mud to use as a spear and kills a wounded Carapace Scavenger by driving it through its eye. He receives the Memory [Azure Blade]."
-                },
-                {
-                "chapter": 34,
-                "text": "Reads the [Azure Blade]'s details: Awakened rank, Weapon type, description 'On this forgotten shore, only steel remembers.' It is about a meter long, a single-edged blade of layered azure steel with white sparks inside, a minimal crossguard, and a handle long enough for two hands. Wrapped in his shadow, it turns bluish-black like a starry sky. His Shadow Fragments rise to 14. He takes the scavenger's soul shard but cannot absorb it. He weaves a makeshift rucksack out of black seaweed to carry the soul shard and meat."
-                },
-                {
-                "chapter": 37,
-                "text": "Tells the girls he has three Memories: an armor, a sword, and a loud bell."
-                },
-                {
-                "chapter": 40,
-                "text": "Kills a second Carapace Scavenger by stabbing the shadow-wrapped [Azure Blade] into the weak spot on its back."
-                },
-                {
-                "chapter": 41,
-                "text": "Gives all his soul shards (three crystals) to Nephis and offers her every shard he earns on the way to the castle, in return for combat lessons. He keeps none because his own progress comes from Shadow Fragments, now 22 of 1000."
-                },
-                {
-                "chapter": 46,
-                "text": "Kills a scavenger in direct combat, cutting off a front leg with a push-and-pull stroke and thrusting the sword through its mouth. The Spell announces a new reward under Echoes: Carapace Scavenger."
-                },
-                {
-                "chapter": 47,
-                "text": "Receives his first Echo, [Carapace Scavenger]. Echo Type: Beast. Echo Core: Awakened. Echo Attributes: [Strong], [Armored]. Description: 'A cursed soldier of the fallen legion.' Touching it prompts an offer to transform it into a Shadow, which requires 100 Shadow Fragments, and he has 24. He summons it to carry Cassie."
-                },
-                {
-                "chapter": 52,
-                "text": "Nearly killed by a Carapace Centurion. His Echo delivers the killing blow, which gives Sunny the Memory [Starlight Legion Armor]. During the fight the Echo's pincer arm is cut off."
-                },
-                {
-                "chapter": 53,
-                "text": "Healed by Nephis's white flame. He keeps the clarity of mind he found while dying."
-                },
-                {
-                "chapter": 54,
-                "text": "Reads the [Starlight Legion Armor]'s description: Awakened rank, Armor type, 'Born in the all-consuming darkness, seven valiant heroes made an oath to return light to the cursed land. Time has erased their names and their faces, but the memory of the defiant oath still remains.' He transfers it to Nephis by taking her hand. His Shadow Fragments are 28, and his Echo is recovering in his Sea of Soul."
-                },
-                {
-                "chapter": 58,
-                "text": "His Echo's lost pincer arm has regrown after two weeks."
-                },
-                {
-                "chapter": 59,
-                "text": "Harvests the two oil sacks from each centipede monster. They produce a corrosive, flammable oil only when mixed, so Nephis insists on keeping them separate."
-                },
-                {
-                "chapter": 60,
-                "text": "His Shadow Fragments are 96 of 1000."
-                },
-                {
-                "chapter": 66,
-                "text": "Disguises the Echo inside a dead centurion's empty carapace to lure the Carapace Demon."
-                },
-                {
-                "chapter": 67,
-                "text": "His Echo is torn in half by the Carapace Demon and dissolves into sparks, and the sphere representing it vanishes from his Sea of Soul."
-                },
-                {
-                "chapter": 68,
-                "text": "Makes two clay jars holding the separate components of centipede oil, and a bone-and-seaweed torch. The oil does nothing to the demon's armor, but it sets him alight when the torch is thrown."
-                },
-                {
-                "chapter": 71,
-                "text": "The [Azure Blade] shatters near the crossguard when he blocks the Carapace Demon's scythe, and the Spell begins to announce the Memory's destruction. He throws the glowing fragments at the great tree as a distraction."
-                },
-                {
-                "chapter": 74,
-                "text": "Receives the Memory [Midnight Shard] from Nephis by touch. It came from the Carapace Demon, making it a tier three Awakened weapon. Description: 'Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender.' It is a slightly curved single-edged tachi, 70 to 80 centimeters long, made of the same bright metal as the demon's armor, with a polished black wooden hilt like the tree's branches and a round crossguard. He senses a deep well of power he cannot yet reach."
-                },
-                {
-                "chapter": 76,
-                "text": "Pries three soul shards from the Carapace Demon's corpse, and cannot find the transcendent soul shard the demon dropped."
-                },
-                {
-                "chapter": 77,
-                "text": "Eats a fruit of the Soul Tree and receives a Shadow Fragment, bringing his count to 97."
-                },
-                {
-                "chapter": 80,
-                "text": "Finds a giant nest in the Soul Tree. He strikes the egg with the [Midnight Shard], wraps the blade in shadow, and kills the Great Devil, the Vile Thieving Bird's Spawn. The Spell announces that he has received a Memory."
-                },
-                {
-                "chapter": 81,
-                "text": "The Memory is [Drop of Ichor], rank and type unknown. Parts of the text are untranslatable. He consumes it. His Shadow Fragments are 196 of 1000."
-                },
-                {
-                "chapter": 82,
-                "text": "The ichor gives him the Attribute [Blood Weave]. Also, he can now see the diamond strings inside Memories, and the shadows of every creature he has killed standing in his Sea of Soul."
-                },
-                {
-                "chapter": 85,
-                "text": "[Mark of Divinity] evolves into [Spark of Divinity]. Description of [Blood Weave] is read."
-                },
-                {
-                "chapter": 86,
-                "text": "Learns from Cassie that his hidden fifth Attribute is [Enthralled], placed on him by the Soul Devouring Tree."
-                },
-                {
-                "chapter": 91,
-                "text": "Sets the Ashen Barrow on fire to escape with Nephis and Cassie on a boat."
-                },
-                {
-                "chapter": 94,
-                "text": "Dives into the black sea and cuts a tentacle off Cassie with the [Midnight Shard], rescuing her."
-                },
-                {
-                "chapter": 96,
-                "text": "Four months into his stay in the Dark City, he lives alone in a hidden chamber of a ruined cathedral and hunts stray Awakened creatures at night. His Memories include the [Ordinary Rock] and the [Prowling Thorn]."
-                },
-                {
-                "chapter": 98,
-                "text": "Kills the leader of a group of Gunlaug's thugs with the [Prowling Thorn], after tricking him with the [Ordinary Rock]."
-                },
-                {
-                "chapter": 99,
-                "text": "Lures the remaining thugs into the cathedral, where the Black Knight kills them. His third human kill."
-                },
-                {
-                "chapter": 103,
-                "text": "Kills a Stone Saint, a living statue, and receives an Echo of her."
-                },
-                {
-                "chapter": 104,
-                "text": "Has nine Memories: [Puppeteer's Shroud], [Midnight Shard], [Prowling Thorn], [Ordinary Rock], [Endless Spring], [Silver Bell], a tower shield, a weak armor, and a glass eye."
-                },
-                {
-                "chapter": 106,
-                "text": "Transforms the Stone Saint Echo into a Shadow, spending 100 Shadow Fragments. The Shadow starts at 0 of 200."
-                },
-                {
-                "chapter": 109,
-                "text": "Finds that his shadow's enhancement works on his Shadow, and feeds her the tower shield, which she consumes."
-                },
-                {
-                "chapter": 110,
-                "text": "Feeds the glass eye and the weak armor to the Stone Saint, bringing her to 6 of 200. Realizes Shadows only grow by consuming Memories, not by kills."
-                },
-                {
-                "chapter": 112,
-                "text": "His Stone Saint kills a Carapace Centurion, and his Shadow Fragments rise to 307 of 1000."
-                },
-                {
-                "chapter": 115,
-                "text": "Finds Kai trapped in a well, and frees him in exchange for errands in the castle."
-                },
-                {
-                "chapter": 123,
-                "text": "Flashback to the arrival in the city: kills a Rolling Stone and receives the Memory [Ordinary Rock]."
-                },
-                {
-                "chapter": 134,
-                "text": "Enters the castle with Cassie, giving the names Sunless and Cassia."
-                },
-                {
-                "chapter": 139,
-                "text": "Meets Caster in the Keep and hides how strong he and Cassie are by blaming Nephis for their survival."
-                },
-                {
-                "chapter": 143,
-                "text": "Sees Gunlaug for the first time. The [Puppeteer's Shroud] protects him from the mind attack of Gunlaug's armor."
-                },
-                {
-                "chapter": 145,
-                "text": "Watches Harus kill Jubei, and feels the two will fight each other one day."
-                },
-                {
-                "chapter": 162,
-                "text": "Kills Harper, a castle spy, and whispers his own True Name, Lost from Light, as the Flaw forces the answer. Caster discovers him."
-                },
-                {
-                "chapter": 164,
-                "text": "Receives the Memory [Endless Spring] from Cassie as a farewell gift."
-                },
-                {
-                "chapter": 168,
-                "text": "After a quarrel with Nephis, disposes of Harper's body in the ruins and returns to his cathedral lair."
-                },
-                {
-                "chapter": 174,
-                "text": "Buys ten Memories through Kai, including a damaged black onyx armor, using about seventy soul shards."
-                },
-                {
-                "chapter": 180,
-                "text": "Flashback: the Black Knight disemboweled him on his first visit to the cathedral, and he healed with [Blood Weave] and the [Midnight Shard]."
-                },
-                {
-                "chapter": 182,
-                "text": "Feeds nine Memories to the Stone Saint, bringing her to 20 of 200. She refuses to destroy the black armor."
-                },
-                {
-                "chapter": 183,
-                "text": "Reveals the Stone Saint to Effie."
-                },
-                {
-                "chapter": 186,
-                "text": "Realizes his shadow fights with a combat style of its own."
-                },
-                {
-                "chapter": 189,
-                "text": "Trades soul shards to the cohort for five Memories, which he feeds to the Stone Saint, bringing her to 27 of 200. His Shadow Fragments are 318 of 1000."
-                },
-                {
-                "chapter": 193,
-                "text": "Joins Nephis's expedition and summons the Stone Saint in the catacombs."
-                }
-            ],
+  "character_details": [
+    {
+      "cid": "Sunny",
+      "image": "icons/sunny_main_img.png",
+      "details": [
+        { "chapter": 1, "text": "Infected by the Nightmare Spell. He spends most of his savings on real coffee, then surrenders to the police and gives the name Sunless." },
+        { "chapter": 2, "text": "Given Aspect is [Temple Slave], and his Attributes are [Fated], [Mark of Divinity], and [Child of Shadows]." },
+        { "chapter": 4, "text": "Kills the Mountain King's Larva by wrapping the caravan chain around it and strangling it, his first kill." },
+        { "chapter": 8, "text": "Kills the dying veteran slaver and receives his first Memory, [Silver Bell]. He also takes the veteran's warm cloak and boots, and gathers water flagons from the dead." },
+        { "chapter": 9, "text": "Leaves his short sword behind on the climb to reduce his weight." },
+        { "chapter": 13, "text": "Reveals that he squeezed Bloodbane juice into every recovered flagon except his own. He uses the [Silver Bell] to draw the blind Mountain King toward Hero." },
+        { "chapter": 14, "text": "Reaches the ruined Shadow God temple. The god's blessing kills Mountain King, and the Spell ends his First Nightmare." },
+        { "chapter": 15, "text": "Receives the Memory [Puppeteer's Shroud], taken from Mountain King, an Awakened Tyrant. He receives the True Name [Lost from Light], and his Aspect evolves into [Shadow Slave], Divine rank, with the innate ability [Shadow Bond]. The appraisal lists his defeated enemies, including an awakened human named Auro of the Nine." },
+        { "chapter": 16, "text": "Awakens a Shadow Core instead of a Soul Core, and learns the Aspect Ability [Shadow Control]. He progresses through Shadow Fragments instead of soul shards and starts with 12 of 1000. His two Memories appear as spheres orbiting the core." },
+        { "chapter": 17, "text": "His Flaw is revealed as [Clear Conscience]: he cannot lie. He wakes in the police station and meets Master Jet." },
+        { "chapter": 18, "text": "Finds that his shadow moves independently, and develops a sense for the shadows around him." },
+        { "chapter": 20, "text": "Discovers he can control how he words true answers, and decides to hide his True Name by looking like a pathetic, unreliable Sleeper." },
+        { "chapter": 24, "text": "Reads the description of the [Puppeteer's Shroud], an Awakened-rank armor made from the black silk cocoon of a Puppeteer Worm. It summons as light, silent armor of dark-grey cloth and black leather that gives him a faint calm and probably protects against mental attacks." },
+        { "chapter": 26, "text": "Learns to detach his shadow and use it as a scout, sharing sight and hearing." },
+        { "chapter": 27, "text": "Punches a strength machine for 9, then 18 with the shadow wrapped around his fist." },
+        { "chapter": 30, "text": "Enters the Dream Realm on the Forgotten Shore and summons the [Puppeteer's Shroud] for clothes, stranded atop the neck of a headless statue." },
+        { "chapter": 33, "text": "Pulls a bone from the mud to use as a spear and kills a wounded Carapace Scavenger by driving it through its eye. He receives the Memory [Azure Blade]." },
+        { "chapter": 34, "text": "Reads the [Azure Blade]'s details: Awakened rank, Weapon type, description 'On this forgotten shore, only steel remembers.' It is about a meter long, a single-edged blade of layered azure steel with white sparks inside, a minimal crossguard, and a handle long enough for two hands. Wrapped in his shadow, it turns bluish-black like a starry sky. His Shadow Fragments rise to 14. He takes the scavenger's soul shard but cannot absorb it. He weaves a makeshift rucksack out of black seaweed to carry the soul shard and meat." },
+        { "chapter": 37, "text": "Tells the girls he has three Memories: an armor, a sword, and a loud bell." },
+        { "chapter": 40, "text": "Kills a second Carapace Scavenger by stabbing the shadow-wrapped [Azure Blade] into the weak spot on its back." },
+        { "chapter": 41, "text": "Gives all his soul shards (three crystals) to Nephis and offers her every shard he earns on the way to the castle, in return for combat lessons. He keeps none because his own progress comes from Shadow Fragments, now 22 of 1000." },
+        { "chapter": 46, "text": "Kills a scavenger in direct combat, cutting off a front leg with a push-and-pull stroke and thrusting the sword through its mouth. The Spell announces a new reward under Echoes: Carapace Scavenger." },
+        { "chapter": 47, "text": "Receives his first Echo, [Carapace Scavenger]. Echo Type: Beast. Echo Core: Awakened. Echo Attributes: [Strong], [Armored]. Description: 'A cursed soldier of the fallen legion.' Touching it prompts an offer to transform it into a Shadow, which requires 100 Shadow Fragments, and he has 24. He summons it to carry Cassie." },
+        { "chapter": 52, "text": "Nearly killed by a Carapace Centurion. His Echo delivers the killing blow, which gives Sunny the Memory [Starlight Legion Armor]. During the fight the Echo's pincer arm is cut off." },
+        { "chapter": 53, "text": "Healed by Nephis's white flame. He keeps the clarity of mind he found while dying." },
+        { "chapter": 54, "text": "Reads the [Starlight Legion Armor]'s description: Awakened rank, Armor type, 'Born in the all-consuming darkness, seven valiant heroes made an oath to return light to the cursed land. Time has erased their names and their faces, but the memory of the defiant oath still remains.' He transfers it to Nephis by taking her hand. His Shadow Fragments are 28, and his Echo is recovering in his Sea of Soul." },
+        { "chapter": 58, "text": "His Echo's lost pincer arm has regrown after two weeks." },
+        { "chapter": 59, "text": "Harvests the two oil sacks from each centipede monster. They produce a corrosive, flammable oil only when mixed, so Nephis insists on keeping them separate." },
+        { "chapter": 60, "text": "His Shadow Fragments are 96 of 1000." },
+        { "chapter": 66, "text": "Disguises the Echo inside a dead centurion's empty carapace to lure the Carapace Demon." },
+        { "chapter": 67, "text": "His Echo is torn in half by the Carapace Demon and dissolves into sparks, and the sphere representing it vanishes from his Sea of Soul." },
+        { "chapter": 68, "text": "Makes two clay jars holding the separate components of centipede oil, and a bone-and-seaweed torch. The oil does nothing to the demon's armor, but it sets him alight when the torch is thrown." },
+        { "chapter": 71, "text": "The [Azure Blade] shatters near the crossguard when he blocks the Carapace Demon's scythe, and the Spell begins to announce the Memory's destruction. He throws the glowing fragments at the great tree as a distraction." },
+        { "chapter": 74, "text": "Receives the Memory [Midnight Shard] from Nephis by touch. It came from the Carapace Demon, making it a tier three Awakened weapon. Description: 'Forged from the shard of a fallen star, this stalwart blade is firm and unyielding. It favors those who are willing to fight to the last drop of blood and knows no surrender.' It is a slightly curved single-edged tachi, 70 to 80 centimeters long, made of the same bright metal as the demon's armor, with a polished black wooden hilt like the tree's branches and a round crossguard. He senses a deep well of power he cannot yet reach." },
+        { "chapter": 76, "text": "Pries three soul shards from the Carapace Demon's corpse, and cannot find the transcendent soul shard the demon dropped." },
+        { "chapter": 77, "text": "Eats a fruit of the Soul Tree and receives a Shadow Fragment, bringing his count to 97." },
+        { "chapter": 80, "text": "Finds a giant nest in the Soul Tree. He strikes the egg with the [Midnight Shard], wraps the blade in shadow, and kills the Great Devil, the Vile Thieving Bird's Spawn. The Spell announces that he has received a Memory." },
+        { "chapter": 81, "text": "The Memory is [Drop of Ichor], rank and type unknown. Parts of the text are untranslatable. He consumes it. His Shadow Fragments are 196 of 1000." },
+        { "chapter": 82, "text": "The ichor gives him the Attribute [Blood Weave]. Also, he can now see the diamond strings inside Memories, and the shadows of every creature he has killed standing in his Sea of Soul." },
+        { "chapter": 85, "text": "[Mark of Divinity] evolves into [Spark of Divinity]. Description of [Blood Weave] is read." },
+        { "chapter": 86, "text": "Learns from Cassie that his hidden fifth Attribute is [Enthralled], placed on him by the Soul Devouring Tree." },
+        { "chapter": 91, "text": "Sets the Ashen Barrow on fire to escape with Nephis and Cassie on a boat." },
+        { "chapter": 94, "text": "Dives into the black sea and cuts a tentacle off Cassie with the [Midnight Shard], rescuing her." },
+        { "chapter": 96, "text": "Four months into his stay in the Dark City, he lives alone in a hidden chamber of a ruined cathedral and hunts stray Awakened creatures at night. His Memories include the [Ordinary Rock] and the [Prowling Thorn]." },
+        { "chapter": 98, "text": "Kills the leader of a group of Gunlaug's thugs with the [Prowling Thorn], after tricking him with the [Ordinary Rock]." },
+        { "chapter": 99, "text": "Lures the remaining thugs into the cathedral, where the Black Knight kills them. His third human kill." },
+        { "chapter": 103, "text": "Kills a Stone Saint, a living statue, and receives an Echo of her." },
+        { "chapter": 104, "text": "Has nine Memories: [Puppeteer's Shroud], [Midnight Shard], [Prowling Thorn], [Ordinary Rock], [Endless Spring], [Silver Bell], a tower shield, a weak armor, and a glass eye." },
+        { "chapter": 106, "text": "Transforms the Stone Saint Echo into a Shadow, spending 100 Shadow Fragments. The Shadow starts at 0 of 200." },
+        { "chapter": 109, "text": "Finds that his shadow's enhancement works on his Shadow, and feeds her the tower shield, which she consumes." },
+        { "chapter": 110, "text": "Feeds the glass eye and the weak armor to the Stone Saint, bringing her to 6 of 200. Realizes Shadows only grow by consuming Memories, not by kills." },
+        { "chapter": 112, "text": "His Stone Saint kills a Carapace Centurion, and his Shadow Fragments rise to 307 of 1000." },
+        { "chapter": 115, "text": "Finds Kai trapped in a well, and frees him in exchange for errands in the castle." },
+        { "chapter": 123, "text": "Flashback to the arrival in the city: kills a Rolling Stone and receives the Memory [Ordinary Rock]." },
+        { "chapter": 134, "text": "Enters the castle with Cassie, giving the names Sunless and Cassia." },
+        { "chapter": 139, "text": "Meets Caster in the Keep and hides how strong he and Cassie are by blaming Nephis for their survival." },
+        { "chapter": 143, "text": "Sees Gunlaug for the first time. The [Puppeteer's Shroud] protects him from the mind attack of Gunlaug's armor." },
+        { "chapter": 145, "text": "Watches Harus kill Jubei, and feels the two will fight each other one day." },
+        { "chapter": 162, "text": "Kills Harper, a castle spy, and whispers his own True Name, Lost from Light, as the Flaw forces the answer. Caster discovers him." },
+        { "chapter": 164, "text": "Receives the Memory [Endless Spring] from Cassie as a farewell gift." },
+        { "chapter": 168, "text": "After a quarrel with Nephis, disposes of Harper's body in the ruins and returns to his cathedral lair." },
+        { "chapter": 174, "text": "Buys ten Memories through Kai, including a damaged black onyx armor, using about seventy soul shards." },
+        { "chapter": 180, "text": "Flashback: the Black Knight disemboweled him on his first visit to the cathedral, and he healed with [Blood Weave] and the [Midnight Shard]." },
+        { "chapter": 182, "text": "Feeds nine Memories to the Stone Saint, bringing her to 20 of 200. She refuses to destroy the black armor." },
+        { "chapter": 183, "text": "Reveals the Stone Saint to Effie." },
+        { "chapter": 186, "text": "Realizes his shadow fights with a combat style of its own." },
+        { "chapter": 189, "text": "Trades soul shards to the cohort for five Memories, which he feeds to the Stone Saint, bringing her to 27 of 200. His Shadow Fragments are 318 of 1000." },
+        { "chapter": 193, "text": "Joins Nephis's expedition and summons the Stone Saint in the catacombs." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "Sunless" },
+          { "chapter": 1, "text": "Sunny" },
+          { "chapter": 15, "text": "Lost From Light", "true_name": true }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "Aspirant" },
+          { "chapter": 15, "text": "Dreamer" },
+          { "chapter": 17, "text": "Sleeper" }
+        ]
+      },
+        "abilities": [
+            { "chapter": 2, "text": "[Temple Slave]", 
+            "chapter_description": "Chapter 3", "description": "[Slave is a useless wretch with no skills or abilities wortha mention. A temple slave is just the same, except much rarer.]" },
             
-            "overview":{
-                "aliases":[
-                    {
-                        "chapter": 1,
-                        "text": "Sunless"
-                    },
-                    {
-                        "chapter": 1,
-                        "text": "Sunny"
-                    },
-                    {
-                        "chapter": 15,
-                        "text": "Lost From Light",
-                        "true_name": true
-                    }
-                ],
-                "rank": [
-                    {
-                        "chapter": 1,
-                        "text": "Aspirant"
-                    },
-                    {
-                        "chapter": 15,
-                        "text": "Dreamer"
-                    },
-                    {
-                        "chapter": 17,
-                        "text": "Sleeper"
-                    }
-                ]
-            }
-        },
-
-        {
-            "cid": "Nephis",
-            "image": "imageswithnocategory/placeholder.png",
-            "details": [
-                {
-                "chapter": 19,
-                "text": "First seen outside the Awakened Academy as a tall, silver-haired girl with grey eyes and old-fashioned headphones, wearing a police-issued tracksuit."
-                },
-                {
-                "chapter": 24,
-                "text": "Ranked first on the Academy board, with the name Nephis and the True Name Changing Star."
-                },
-                {
-                "chapter": 27,
-                "text": "Loses a sparring match to Caster by a hair. Caster reveals she is Nephis of the Immortal Flame clan, whose parents were Smile of Heaven and Broken Sword, and that the clan is gone."
-                },
-                {
-                "chapter": 34,
-                "text": "Seen in the labyrinth with Cassie."
-                },
-                {
-                "chapter": 35,
-                "text": "Fomrmally meets Sunny."
-                },
-                {
-                "chapter": 36,
-                "text": "Dismisses and re-summons her memory golden rope."
-                },
-                {
-                "chapter": 37,
-                "text": "Lists her Memories as the rope and a sword that can protect against soul attacks. She says her Ability 'can be used to heal.' She has given her armor to Cassie."
-                },
-                {
-                "chapter": 38,
-                "text": "Her sword and armor came from her First Nightmare, and most of her family's Memories were lost or sold after her father died."
-                },
-                {
-                "chapter": 41,
-                "text": "Takes Sunny's soul shards in exchange for teaching him combat, and shares a shard with Cassie."
-                },
-                {
-                "chapter": 43,
-                "text": "Her longsword is a narrow double-edged blade of silver with a cross-shaped guard and a handle wrapped in black leather."
-                },
-                {
-                "chapter": 51,
-                "text": "Absorbs the soul shards of eight dead scavengers."
-                },
-                {
-                "chapter": 53,
-                "text": "Heals Sunny with white flame, in great pain. Confirms her Flaw is that using her Ability feels like burning alive."
-                },
-                {
-                "chapter": 54,
-                "text": "Receives the Awakened-rank [Starlight Legion Armor] from Sunny."
-                },
-                {
-                "chapter": 74,
-                "text": "Transfers the Memory from the Carapace Demon, the [Midnight Shard], to Sunny and declines to keep it, saying her sword suits her."
-                },
-                {
-                "chapter": 88,
-                "text": "Tells Sunny to say 'Aster... Song... Vale' to make her listen when her memory fades."
-                },
-                {
-                "chapter": 93,
-                "text": "Dragged under the sea by a tentacle, leaving her silver sword behind in its flesh."
-                },
-                {
-                "chapter": 95,
-                "text": "Returns from the sea almost dead, and heals herself with white flame."
-                },
-                {
-                "chapter": 122,
-                "text": "Wears the [Starlight Legion Armor] with a white cloak, and her silver hair now nearly reaches her shoulders."
-                },
-                {
-                "chapter": 133,
-                "text": "Stays in the outer settlement while Sunny and Cassie enter the castle, saying they will meet in a week."
-                },
-                {
-                "chapter": 147,
-                "text": "Lives in a drafty stone lodge on the edge of the outer settlement, near the white road."
-                },
-                {
-                "chapter": 149,
-                "text": "Learns that the Gateway is inside the Crimson Spire."
-                },
-                {
-                "chapter": 153,
-                "text": "Invokes the Right of Challenge against the Pathfinder Andel, and announces herself as Changing Star of the Immortal Flame clan."
-                },
-                {
-                "chapter": 154,
-                "text": "Summons the [Starlight Legion Armor] and kills Andel with a single strike of her longsword."
-                },
-                {
-                "chapter": 156,
-                "text": "Leads her hunting party and gives away the meat to the settlement for free."
-                },
-                {
-                "chapter": 157,
-                "text": "Some of the settlement start calling her Saint Nephis."
-                },
-                {
-                "chapter": 165,
-                "text": "Says her nanny tried to strangle her at five or six, and that she learned about strength when her teacher killed the nanny."
-                },
-                {
-                "chapter": 167,
-                "text": "Admits to Sunny that she will kill Gunlaug and his lieutenants and sacrifice everyone to build a road of bones to the Gateway."
-                },
-                {
-                "chapter": 168,
-                "text": "Says her real goal is to conquer every Nightmare and destroy the Spell, 'because I hate it.'"
-                },
-                {
-                "chapter": 170,
-                "text": "Is starstruck when she realizes Kai is Night from the idol group Nightingale."
-                },
-                {
-                "chapter": 178,
-                "text": "Plans an expedition to find the remains of the cohort that conquered the castle fifteen years ago, and has a map of the Forgotten Shore."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 24,
-                    "text": "Changing Star",
-                    "true_name": true
-                },
-                {
-                    "chapter": 25,
-                    "text": "Lady Nephis"
-                },
-                {
-                    "chapter": 27,
-                    "text": "Nephis of the Immortal Flame clan"
-                },
-                {
-                    "chapter": 157,
-                    "text": "Saint Nephis"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 19,
-                    "text": "Sleeper"
-                }
-                ]
-
-            }
-        },
-
-        {
-            "cid": "Cassie",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 22,
-                "text": "First seen as a delicate, blind girl with pale blond hair, sitting alone in the corner of the induction hall."
-                },
-                {
-                "chapter": 24,
-                "text": "Named as Cassia, last place in the rankings."
-                },
-                {
-                "chapter": 29,
-                "text": "Wishes Sunny a happy birthday, which he has forgotten."
-                },
-                {
-                "chapter": 35,
-                "text": "Wears a simple tunic, leather sandals, and a cloak the color of sea waves, and carries a wooden staff."
-                },
-                {
-                "chapter": 36,
-                "text": "Introduces herself as Cassie. Lends Sunny her Memory, a glass bottle that is always full of cool water."
-                },
-                {
-                "chapter": 37,
-                "text": "Lists three Memories: the bottle, a staff that creates wind, and an armor Nephis gave her. Her Ability lets her see people's Attributes and sometimes receive visions of the past or future."
-                },
-                {
-                "chapter": 38,
-                "text": "Has a vision of a castle full of Awakened people to the west."
-                },
-                {
-                "chapter": 44,
-                "text": "Describes a vision of seven seals, a burning castle, a crimson spire with seven severed heads, and a dying angel."
-                },
-                {
-                "chapter": 55,
-                "text": "Says she has seen more visions than she has told the group."
-                },
-                {
-                "chapter": 56,
-                "text": "Asks Sunny to promise to take care of Nephis no matter what. He refuses."
-                },
-                {
-                "chapter": 65,
-                "text": "Describes a vision of the Carapace Demon's past battle that reveals a weak spot in his chest armor."
-                },
-                {
-                "chapter": 69,
-                "text": "Covers Sunny's eyes and tells him not to look when the fog creature arrives."
-                },
-                {
-                "chapter": 84,
-                "text": "Sunny remembers that she woke him after the Carapace Demon was killed and begged him to remember the number five, saying she would soon forget."
-                },
-                {
-                "chapter": 86,
-                "text": "Reads Sunny's hidden fifth Attribute, [Enthralled], which breaks the Soul Tree's hold on his mind."
-                },
-                {
-                "chapter": 92,
-                "text": "Hugs Sunny and thanks him after the escape."
-                },
-                {
-                "chapter": 94,
-                "text": "Nearly drowned by a tentacle in the sea, and rescued by Sunny."
-                },
-                {
-                "chapter": 134,
-                "text": "Enters the castle with Sunny."
-                },
-                {
-                "chapter": 160,
-                "text": "Her vision of the burning castle is revealed to be about the future."
-                },
-                {
-                "chapter": 164,
-                "text": "Gives Sunny the [Endless Spring] as a gift and says goodbye."
-                },
-                {
-                "chapter": 176,
-                "text": "Is calmer, older, and more reserved than before."
-                },
-                {
-                "chapter": 189,
-                "text": "Carries a rapier on her belt."
-                },
-                {
-                "chapter": 193,
-                "text": "The rapier is her Echo, Quiet Dancer, which floats in the air and acts as her partner."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 24,
-                    "text": "Cassia"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 22,
-                    "text": "Sleeper"
-                }
-                ]
-            }
-        },
-
-        {
-            "cid": "Rain",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 1,
-                "text": "Sunny's little sister, named in the same poetic spirit as him, back when she still lived with the family."
-                },
-                {
-                "chapter": 41,
-                "text": "Sunny thinks of her while guiding Cassie. As a toddler she followed him around as though they were glued together."
-                }
-            ]
-        },
-        {
-            "cid": "Caster",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 20,
-                "text": "First seen as a tall, handsome young man with brown hair and green eyes, surrounded by admirers after revealing an Ascended Aspect with an 'excellent' appraisal."
-                },
-                {
-                "chapter": 21,
-                "text": "Named Caster. A companion says he is a Legacy, a descendant of an Awakened clan trained for the Spell since birth. He responds kindly when Sunny mocks his appraisal."
-                },
-                {
-                "chapter": 25,
-                "text": "Introduces himself to Nephis as Caster of the Han Li clan and calls her 'Lady Nephis.'"
-                },
-                {
-                "chapter": 27,
-                "text": "Defeats Nephis in a sparring match by a hair, and reveals her family history."
-                },
-                {
-                "chapter": 101,
-                "text": "Reached the castle long before the others and later joined Nephis's cohort."
-                },
-                {
-                "chapter": 138,
-                "text": "Defends Sunny from two Guards by claiming they are friends."
-                },
-                {
-                "chapter": 140,
-                "text": "Has stayed independent of Gunlaug, living in the Tower of Dawn."
-                },
-                {
-                "chapter": 155,
-                "text": "Joins Nephis's hunting party as its fifth member."
-                },
-                {
-                "chapter": 162,
-                "text": "Finds Sunny after he kills Harper and offers to help hide the body, which Sunny suspects is leverage."
-                },
-                {
-                "chapter": 193,
-                "text": "Wields a jian with a triangular jade guard that glows ghostly green."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 25,
-                    "text": "Caster of the Han Li clan"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 20,
-                    "text": "Sleeper"
-                }
-                ]
-            }
-
-        },
-        {
-            "cid": "Shifty",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 2,
-                "text": "A nervous, quick-tempered slave in the caravan who insults Sunny."
-                },
-                {
-                "chapter": 3,
-                "text": "Nearly eats poisonous Bloodbane berries before Scholar warns him."
-                },
-                {
-                "chapter": 4,
-                "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms."
-                },
-                {
-                "chapter": 5,
-                "text": "Freed from his shackles by Sunny."
-                },
-                {
-                "chapter": 8,
-                "text": "Steals valuables from the dead soldiers instead of looking for warm clothes."
-                },
-                {
-                "chapter": 10,
-                "text": "Sick from the climb and from poisoned water, he slips on the icy slope and falls to his death."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 5,
-                    "text": ""
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Scholar",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 2,
-                "text": "A gentle-voiced slave in the caravan."
-                },
-                {
-                "chapter": 3,
-                "text": "A scholar-like man in his forties. He warns Shifty that the red berries along the road are poisonous Bloodbane."
-                },
-                {
-                "chapter": 4,
-                "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms."
-                },
-                {
-                "chapter": 9,
-                "text": "Remembers an older pilgrim path that lets the survivors climb past a rockfall."
-                },
-                {
-                "chapter": 11,
-                "text": "Proposes making Sunny bleed and leaving him as bait for Mountain King."
-                },
-                {
-                "chapter": 12,
-                "text": "Hero reveals he knows Scholar's identity ('Your Grace') and crimes, then cripples him and leaves him on the path as bait."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 12,
-                    "text": "Your Grace"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Hero",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 2,
-                "text": "A young soldier in the slave caravan who tries to give Sunny water, and is threatened by an older soldier."
-                },
-                {
-                "chapter": 5,
-                "text": "Kills a larva with a single sword strike and throws Sunny the key to his shackles. Sunny uses it to free himself, Shifty, and Scholar."
-                },
-                {
-                "chapter": 6,
-                "text": "Fights Mountain King to distract it while Sunny sets up the wagon."
-                },
-                {
-                "chapter": 7,
-                "text": "Nicknamed Hero by Sunny. Proposes waiting until sunrise, and promises to free the slaves afterward."
-                },
-                {
-                "chapter": 12,
-                "text": "Reveals he knows Scholar's identity ('Your Grace') and crimes, breaks Scholar's legs, and leaves him on the path as bait."
-                },
-                {
-                "chapter": 13,
-                "text": "Admits he planned to kill Sunny in his sleep. Reveals his Soul Core has long been Awakened, which makes him immune to Sunny's Bloodbane."
-                },
-                {
-                "chapter": 14,
-                "text": "Seized by Mountain King after Sunny rings the Silver Bell."
-                },
-                {
-                "chapter": 15,
-                "text": "Killed by Sunny. The Spell's appraisal lists him as an awakened human named Auro of the Nine."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 15,
-                    "text": "Auro of the Nine"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 13,
-                    "text": "Awakened"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Jet",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 17,
-                "text": "An Ascended government Awakened with three stars, also called Master Jet. She watches over Sunny for three days and explains the progression of Sleeper, Awakened, Master, and Saint."
-                },
-                {
-                "chapter": 18,
-                "text": "Recommends the Awakened Academy and tells Sunny to keep his Aspect and Flaw secret."
-                },
-                {
-                "chapter": 19,
-                "text": "Gives Sunny three pieces of advice: refuse counseling, take only Wilderness Survival, and build relationships with other Sleepers."
-                },
-                {
-                "chapter": 25,
-                "text": "Teacher Julius calls her Soul Reaper Jet and says her Abilities strike soul cores directly."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 17,
-                    "text": "Master Jet"
-                },
-                {
-                    "chapter": 17,
-                    "text": "Ascended Jet"
-                },
-                {
-                    "chapter": 25,
-                    "text": "Soul Reaper Jet",
-                    "true_name": true
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Rock",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 22,
-                "text": "A giant, bearded Awakened who introduces himself as Awakened Rock. He addresses the new Sleepers and warns them that the Spell is merciless."
-                },
-                {
-                "chapter": 23,
-                "text": "Explains Nightmares versus the Dream Realm, and advises reaching a human Citadel."
-                },
-                {
-                "chapter": 26,
-                "text": "Runs the combat class where Nephis and Caster stand out."
-                },
-                {
-                "chapter": 29,
-                "text": "Leads the Sleepers to the medical center and shows them the Hollow."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 26,
-                    "text": "Instructor Rock"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 22,
-                    "text": "Awakened"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Julius",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 25,
-                "text": "An old Awakened Wilderness Survival instructor with bushy eyebrows, delighted to have a student."
-                },
-                {
-                "chapter": 28,
-                "text": "Teaches Sunny survival skills and the dead languages of the Dream Realm."
-                },
-                {
-                "chapter": 29,
-                "text": "Says goodbye to Sunny before the solstice and promises to apply for a research assistant position once he is Awakened."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 28,
-                    "text": "Teacher Julius"
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 25,
-                    "text": "Awakened"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Smile of Heaven",
-            "image": "imageswithnocategory/placeholder.png",
-            "details": [
-                {
-                    "chapter": 25,
-                    "text": "Mentioned as a rare exception who received her True Name in her First Nightmare."
-                },
-                {
-                    "chapter": 27,
-                    "text": "Caster reveals she is one of Nephis's parents, along with Broken Sword."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Broken Sword",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                    "chapter": 27,
-                    "text": "Caster reveals he is one of Nephis's parents, along with Smile of Heaven. He was the first human to conquer the Third Nightmare and become a Saint."
-                },
-                {
-                    "chapter": 27,
-                    "text": "He and the Immortal Flame clan's head failed to protect their family from being killed in the past."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Immortal Flame",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                    "chapter": 27,
-                    "text": "Nephis's grandfather and the first human to conquer the Second Nightmare and become a Master."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Gunlaug",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 98,
-                "text": "Owner of the castle who calls himself king."
-                },
-                {
-                "chapter": 128,
-                "text": "Charges one soul shard a week to live in the castle."
-                },
-                {
-                "chapter": 143,
-                "text": "Appears in gilded armor with a mirror-like gold face that emits a mind attack when looked at."
-                },
-                {
-                "chapter": 149,
-                "text": "His Aspect Ability lets him breathe and move with incredible speed underwater. He arrived eight years ago and got his armor from a dying leviathan."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Kai",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 115,
-                "text": "Imprisoned in a well by thugs trying to force out his Memories. His Aspect Ability is flight."
-                },
-                {
-                "chapter": 117,
-                "text": "A young man in light lamellar armor with dark auburn hair and green eyes."
-                },
-                {
-                "chapter": 118,
-                "text": "His Flaw is that he can tell when someone is lying."
-                },
-                {
-                "chapter": 121,
-                "text": "Has been on the Shore two and a half years and is known as Night, or Nightingale, in the castle."
-                },
-                {
-                "chapter": 170,
-                "text": "Is Night from the idol group Nightingale, lead vocalist of the most famous group of the last decade."
-                },
-                {
-                "chapter": 174,
-                "text": "Buys ten Memories for Sunny at the Memory Market using Sunny's shards."
-                },
-                {
-                "chapter": 188,
-                "text": "Joins Nephis's expedition."
-                },
-                {
-                "chapter": 193,
-                "text": "Carries a falcata and a horn longbow."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Effie",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 125,
-                "text": "First seen eating roasted monster meat in a tower on the city wall: a tall, athletic young woman with hazel eyes and a braid."
-                },
-                {
-                "chapter": 126,
-                "text": "Named as Effie, a Sleeper who has been stuck three years."
-                },
-                {
-                "chapter": 130,
-                "text": "Her Aspect Ability is strong all-around physical enhancement, and her Flaw enhances her physical needs too, so she eats enormously. Her Memories include an apron, a knife, a Corinthian helmet, and a bag."
-                },
-                {
-                "chapter": 155,
-                "text": "Joins Nephis's party as pathfinder, and Caster calls her Huntress Athena."
-                },
-                {
-                "chapter": 159,
-                "text": "Wounds a Spire Messenger with her bronze spear."
-                },
-                {
-                "chapter": 185,
-                "text": "Trains and watches Sunny spar with the Stone Saint."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 155,
-                    "text": "Huntress Athena"
-                }
-                ],
-                
-                "rank": [
-                {
-                    "chapter": 126,
-                    "text": "Sleeper"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Harper",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 134,
-                "text": "Receptionist in charge of guest accommodations at the castle, a gaunt, nervous young man."
-                },
-                {
-                "chapter": 158,
-                "text": "Expelled from the castle and begins working at Nephis's lodge, while secretly reporting to a high-ranking Guard."
-                },
-                {
-                "chapter": 162,
-                "text": "Killed by Sunny."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Gemma",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 141,
-                "text": "Leads the Hunters and Pathfinders. He came to the Shore the same year as Gunlaug and helped take the castle."
-                },
-                {
-                "chapter": 144,
-                "text": "Proposes the right of challenge in Jubei's trial."
-                },
-                {
-                "chapter": 153,
-                "text": "Presides over the challenge Nephis invokes against Andel."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Tessai",
-            "image": "imageswithnocategory/placeholder.png",
-            "details":[
-                {
-                "chapter": 141,
-                "text": "Leads the Castle Guard, about 150 men. A morose giant, two years short of thirty, perhaps the oldest Sleeper on the Shore."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Kido",
-            "details":[
-                {
-                "chapter": 142,
-                "text": "Leads the Artisans. Her Ability changes the attributes of plants, and she grows the castle's vegetables."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Seishan",
-            "details":[
-                {
-                "chapter": 142,
-                "text": "Leads the Handmaidens, secretly teaching them self-defense. She is the first person to sense Sunny's shadow watching."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Harus",
-            "details":[
-                {
-                "chapter": 143,
-                "text": "Gunlaug's executioner and hidden blade, a pale hunchback who everyone fears."
-                },
-                {
-                "chapter": 145,
-                "text": "Kills Jubei bare-handed in five seconds."
-                },
-                {
-                "chapter": 191,
-                "text": "Follows Nephis's expedition alone."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Jubei",
-            "details":[
-                {
-                "chapter": 144,
-                "text": "A lean settlement dweller who accuses a Pathfinder of feeding a kid to monsters as bait, and challenges Gemma."
-                },
-                {
-                "chapter": 145,
-                "text": "Killed by Harus."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Aiko",
-            "details":[
-                {
-                "chapter": 150,
-                "text": "Runs the castle's gambling den. The Pathfinder Andel owes her soul shards."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Andel",
-            "details":[
-                {
-                "chapter": 150,
-                "text": "A Pathfinder and gambler who spends all his shards at Aiko's den and refuses to pay. His Ability makes any weapon in his hands incredibly sharp."
-                },
-                {
-                "chapter": 154,
-                "text": "Beheaded by Nephis in a challenge over his gambling debts."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Stephen",
-            "details":[
-                {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "First Lord",
-            "details":[
-                {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "Stone Saint",
-            "details":[
-                {
-                "chapter": 102,
-                "text": "The last living statue guarding a square: a small female warrior with a sword, a round shield, black plate armor, and ruby eyes. She kills two Fallen spiders before falling."
-                },
-                {
-                "chapter": 105,
-                "text": "As Sunny's Echo, she has the Attributes [Battle Master], [Stalwart], and [Mark of Divinity]."
-                },
-                {
-                "chapter": 106,
-                "text": "Transformed into a Shadow, with the Attributes [Battle Master], [Stalwart], and [Spark of Divinity]. She starts at 0 of 200 Shadow Fragments."
-                },
-                {
-                "chapter": 109,
-                "text": "Sunny's shadow enhancement at least doubles her power."
-                },
-                {
-                "chapter": 112,
-                "text": "Kills a Carapace Centurion in a duel, but kills benefit Sunny, not her."
-                },
-                {
-                "chapter": 182,
-                "text": "At 20 of 200 Shadow Fragments, she refuses to destroy the black onyx armor."
-                },
-                {
-                "chapter": 189,
-                "text": "Reaches 27 of 200 Shadow Fragments."
-                }
-            ],
-            "overview": {
-                "aliases": [
-                {
-                    "chapter": 1,
-                    "text": ""
-                }
-                ],
-                "rank": [
-                {
-                    "chapter": 1,
-                    "text": "insertrank"
-                }
-                ]
-            }
-        },
-        {
-            "cid": "insertname",
-            "details":[
-                {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
-                }
-            ]
-        },
-        {
-            "cid": "insertname",
-            "details":[
-                {
-                    "chapter": 1,
-                    "text": "insert details about character3"
-                },
-                {
-                    "chapter": 2,
-                    "text": "insert details about same character3"
-                }
-            ]
-        }
-    ]
+            { "chapter": 2, "text": "[Fated]", 
+            "chapter_description": "Chapter 3", "description": "The strings of fate wrap tightly around you. Unlikely events, both good and bad, are drawn by your presence. There are those who are blessed, and there are those who are cursed… but rarely both." },
+            
+            { "chapter": 2, "text": "[Mark of Divinity]", 
+            "chapter_description": 3,"description": "You bear a faint scent of divinity, as though someone briefly touched by it once, a long time ago" },
+            
+            { "chapter": 2, "text": "[Child of Shadows]", 
+            "chapter_description": 3, "description": "Shadows recognize you as one of their own." },
+            
+            { "chapter": 17, "text": "Flaw: [Clear Conscience]", 
+            "chapter_description": 17,"description": "You cannot lie." },
+            
+            { "chapter": 82, "text": "[Blood Weave]",
+            "chapter_description": 85 , "description": "You have inherited a part of Weaver's forbidden lineage. Your blood has been altered and embued with odd tenacity." },
+            
+            { "chapter": 85, "text": "[Spark of Divinity]", 
+            "chapter_description": 3,"description": "Evolved from [Mark of Divinity]. Every fire starts from a spark. Somewhere deep within your soul, a radiant spark shines with divine light" },
+            
+            { "chapter": 86, "text": "[Enthralled]", "description": "You've been mesmerized by the ancient fiend, Soul Devouring Tree, and are being turned into its thrall. Once the process is complete, there will be no escape." }
+        ]
+    },
+    {
+      "cid": "Nephis",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 19, "text": "First seen outside the Awakened Academy as a tall, silver-haired girl with grey eyes and old-fashioned headphones, wearing a police-issued tracksuit." },
+        { "chapter": 24, "text": "Ranked first on the Academy board, with the name Nephis and the True Name Changing Star." },
+        { "chapter": 27, "text": "Loses a sparring match to Caster by a hair. Caster reveals she is Nephis of the Immortal Flame clan, whose parents were Smile of Heaven and Broken Sword, and that the clan is gone." },
+        { "chapter": 34, "text": "Seen in the labyrinth with Cassie." },
+        { "chapter": 35, "text": "Fomrmally meets Sunny." },
+        { "chapter": 36, "text": "Dismisses and re-summons her memory golden rope." },
+        { "chapter": 37, "text": "Lists her Memories as the rope and a sword that can protect against soul attacks. She says her Ability 'can be used to heal.' She has given her armor to Cassie." },
+        { "chapter": 38, "text": "Her sword and armor came from her First Nightmare, and most of her family's Memories were lost or sold after her father died." },
+        { "chapter": 41, "text": "Takes Sunny's soul shards in exchange for teaching him combat, and shares a shard with Cassie." },
+        { "chapter": 43, "text": "Her longsword is a narrow double-edged blade of silver with a cross-shaped guard and a handle wrapped in black leather." },
+        { "chapter": 51, "text": "Absorbs the soul shards of eight dead scavengers." },
+        { "chapter": 53, "text": "Heals Sunny with white flame, in great pain. Confirms her Flaw is that using her Ability feels like burning alive." },
+        { "chapter": 54, "text": "Receives the Awakened-rank [Starlight Legion Armor] from Sunny." },
+        { "chapter": 74, "text": "Transfers the Memory from the Carapace Demon, the [Midnight Shard], to Sunny and declines to keep it, saying her sword suits her." },
+        { "chapter": 88, "text": "Tells Sunny to say 'Aster... Song... Vale' to make her listen when her memory fades." },
+        { "chapter": 93, "text": "Dragged under the sea by a tentacle, leaving her silver sword behind in its flesh." },
+        { "chapter": 95, "text": "Returns from the sea almost dead, and heals herself with white flame." },
+        { "chapter": 122, "text": "Wears the [Starlight Legion Armor] with a white cloak, and her silver hair now nearly reaches her shoulders." },
+        { "chapter": 133, "text": "Stays in the outer settlement while Sunny and Cassie enter the castle, saying they will meet in a week." },
+        { "chapter": 147, "text": "Lives in a drafty stone lodge on the edge of the outer settlement, near the white road." },
+        { "chapter": 149, "text": "Learns that the Gateway is inside the Crimson Spire." },
+        { "chapter": 153, "text": "Invokes the Right of Challenge against the Pathfinder Andel, and announces herself as Changing Star of the Immortal Flame clan." },
+        { "chapter": 154, "text": "Summons the [Starlight Legion Armor] and kills Andel with a single strike of her longsword." },
+        { "chapter": 156, "text": "Leads her hunting party and gives away the meat to the settlement for free." },
+        { "chapter": 157, "text": "Some of the settlement start calling her Saint Nephis." },
+        { "chapter": 165, "text": "Says her nanny tried to strangle her at five or six, and that she learned about strength when her teacher killed the nanny." },
+        { "chapter": 167, "text": "Admits to Sunny that she will kill Gunlaug and his lieutenants and sacrifice everyone to build a road of bones to the Gateway." },
+        { "chapter": 168, "text": "Says her real goal is to conquer every Nightmare and destroy the Spell, 'because I hate it.'" },
+        { "chapter": 170, "text": "Is starstruck when she realizes Kai is Night from the idol group Nightingale." },
+        { "chapter": 178, "text": "Plans an expedition to find the remains of the cohort that conquered the castle fifteen years ago, and has a map of the Forgotten Shore." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 24, "text": "Changing Star", "true_name": true },
+          { "chapter": 25, "text": "Lady Nephis" },
+          { "chapter": 27, "text": "Nephis of the Immortal Flame clan" },
+          { "chapter": 157, "text": "Saint Nephis" }
+        ],
+        "rank": [
+          { "chapter": 19, "text": "Sleeper" }
+        ]
+      },
+        "abilities": [
+            { "chapter": 37, "text": "Ability: Healing (?)" }
+        ]
+    },
+    {
+      "cid": "Cassie",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 22, "text": "First seen as a delicate, blind girl with pale blond hair, sitting alone in the corner of the induction hall." },
+        { "chapter": 24, "text": "Named as Cassia, last place in the rankings." },
+        { "chapter": 29, "text": "Wishes Sunny a happy birthday, which he has forgotten." },
+        { "chapter": 35, "text": "Wears a simple tunic, leather sandals, and a cloak the color of sea waves, and carries a wooden staff." },
+        { "chapter": 36, "text": "Introduces herself as Cassie. Lends Sunny her Memory, a glass bottle that is always full of cool water." },
+        { "chapter": 37, "text": "Lists three Memories: the bottle, a staff that creates wind, and an armor Nephis gave her. Her Ability lets her see people's Attributes and sometimes receive visions of the past or future." },
+        { "chapter": 38, "text": "Has a vision of a castle full of Awakened people to the west." },
+        { "chapter": 44, "text": "Describes a vision of seven seals, a burning castle, a crimson spire with seven severed heads, and a dying angel." },
+        { "chapter": 55, "text": "Says she has seen more visions than she has told the group." },
+        { "chapter": 56, "text": "Asks Sunny to promise to take care of Nephis no matter what. He refuses." },
+        { "chapter": 65, "text": "Describes a vision of the Carapace Demon's past battle that reveals a weak spot in his chest armor." },
+        { "chapter": 69, "text": "Covers Sunny's eyes and tells him not to look when the fog creature arrives." },
+        { "chapter": 84, "text": "Sunny remembers that she woke him after the Carapace Demon was killed and begged him to remember the number five, saying she would soon forget." },
+        { "chapter": 86, "text": "Reads Sunny's hidden fifth Attribute, [Enthralled], which breaks the Soul Tree's hold on his mind." },
+        { "chapter": 92, "text": "Hugs Sunny and thanks him after the escape." },
+        { "chapter": 94, "text": "Nearly drowned by a tentacle in the sea, and rescued by Sunny." },
+        { "chapter": 134, "text": "Enters the castle with Sunny." },
+        { "chapter": 160, "text": "Her vision of the burning castle is revealed to be about the future." },
+        { "chapter": 164, "text": "Gives Sunny the [Endless Spring] as a gift and says goodbye." },
+        { "chapter": 176, "text": "Is calmer, older, and more reserved than before." },
+        { "chapter": 189, "text": "Carries a rapier on her belt." },
+        { "chapter": 193, "text": "The rapier is her Echo, Quiet Dancer, which floats in the air and acts as her partner." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 24, "text": "Cassia" }
+        ],
+        "rank": [
+          { "chapter": 22, "text": "Sleeper" }
+        ]
+      },
+        "abilities": [
+            { "chapter": 37, "text": "Ability: Vision" }
+        ]
+    },
+    {
+      "cid": "Rain",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 1, "text": "Sunny's little sister, named in the same poetic spirit as him, back when she still lived with the family." },
+        { "chapter": 41, "text": "Sunny thinks of her while guiding Cassie. As a toddler she followed him around as though they were glued together." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Caster",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 20, "text": "First seen as a tall, handsome young man with brown hair and green eyes, surrounded by admirers after revealing an Ascended Aspect with an 'excellent' appraisal." },
+        { "chapter": 21, "text": "Named Caster. A companion says he is a Legacy, a descendant of an Awakened clan trained for the Spell since birth. He responds kindly when Sunny mocks his appraisal." },
+        { "chapter": 25, "text": "Introduces himself to Nephis as Caster of the Han Li clan and calls her 'Lady Nephis.'" },
+        { "chapter": 27, "text": "Defeats Nephis in a sparring match by a hair, and reveals her family history." },
+        { "chapter": 101, "text": "Reached the castle long before the others and later joined Nephis's cohort." },
+        { "chapter": 138, "text": "Defends Sunny from two Guards by claiming they are friends." },
+        { "chapter": 140, "text": "Has stayed independent of Gunlaug, living in the Tower of Dawn." },
+        { "chapter": 155, "text": "Joins Nephis's hunting party as its fifth member." },
+        { "chapter": 162, "text": "Finds Sunny after he kills Harper and offers to help hide the body, which Sunny suspects is leverage." },
+        { "chapter": 193, "text": "Wields a jian with a triangular jade guard that glows ghostly green." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 25, "text": "Caster of the Han Li clan" }
+        ],
+        "rank": [
+          { "chapter": 20, "text": "Sleeper" }
+        ]
+      }
+    },
+    {
+      "cid": "Shifty",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 2, "text": "A nervous, quick-tempered slave in the caravan who insults Sunny." },
+        { "chapter": 3, "text": "Nearly eats poisonous Bloodbane berries before Scholar warns him." },
+        { "chapter": 4, "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms." },
+        { "chapter": 5, "text": "Freed from his shackles by Sunny." },
+        { "chapter": 8, "text": "Steals valuables from the dead soldiers instead of looking for warm clothes." },
+        { "chapter": 10, "text": "Sick from the climb and from poisoned water, he slips on the icy slope and falls to his death." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 5, "text": "" }
+        ]
+      }
+    },
+    {
+      "cid": "Scholar",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 2, "text": "A gentle-voiced slave in the caravan." },
+        { "chapter": 3, "text": "A scholar-like man in his forties. He warns Shifty that the red berries along the road are poisonous Bloodbane." },
+        { "chapter": 4, "text": "Helps Sunny pull the caravan chain tight around the transformed creature's arms." },
+        { "chapter": 9, "text": "Remembers an older pilgrim path that lets the survivors climb past a rockfall." },
+        { "chapter": 11, "text": "Proposes making Sunny bleed and leaving him as bait for Mountain King." },
+        { "chapter": 12, "text": "Hero reveals he knows Scholar's identity ('Your Grace') and crimes, then cripples him and leaves him on the path as bait." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 12, "text": "Your Grace" }
+        ]
+      }
+    },
+    {
+      "cid": "Hero",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 2, "text": "A young soldier in the slave caravan who tries to give Sunny water, and is threatened by an older soldier." },
+        { "chapter": 5, "text": "Kills a larva with a single sword strike and throws Sunny the key to his shackles. Sunny uses it to free himself, Shifty, and Scholar." },
+        { "chapter": 6, "text": "Fights Mountain King to distract it while Sunny sets up the wagon." },
+        { "chapter": 7, "text": "Nicknamed Hero by Sunny. Proposes waiting until sunrise, and promises to free the slaves afterward." },
+        { "chapter": 12, "text": "Reveals he knows Scholar's identity ('Your Grace') and crimes, breaks Scholar's legs, and leaves him on the path as bait." },
+        { "chapter": 13, "text": "Admits he planned to kill Sunny in his sleep. Reveals his Soul Core has long been Awakened, which makes him immune to Sunny's Bloodbane." },
+        { "chapter": 14, "text": "Seized by Mountain King after Sunny rings the Silver Bell." },
+        { "chapter": 15, "text": "Killed by Sunny. The Spell's appraisal lists him as an awakened human named Auro of the Nine." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 15, "text": "Auro of the Nine" }
+        ],
+        "rank": [
+          { "chapter": 13, "text": "Awakened" }
+        ]
+      }
+    },
+    {
+      "cid": "Jet",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 17, "text": "An Ascended government Awakened with three stars, also called Master Jet. She watches over Sunny for three days and explains the progression of Sleeper, Awakened, Master, and Saint." },
+        { "chapter": 18, "text": "Recommends the Awakened Academy and tells Sunny to keep his Aspect and Flaw secret." },
+        { "chapter": 19, "text": "Gives Sunny three pieces of advice: refuse counseling, take only Wilderness Survival, and build relationships with other Sleepers." },
+        { "chapter": 25, "text": "Teacher Julius calls her Soul Reaper Jet and says her Abilities strike soul cores directly." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 17, "text": "Master Jet" },
+          { "chapter": 17, "text": "Ascended Jet" },
+          { "chapter": 25, "text": "Soul Reaper Jet", "true_name": true }
+        ]
+      }
+    },
+    {
+      "cid": "Rock",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 22, "text": "A giant, bearded Awakened who introduces himself as Awakened Rock. He addresses the new Sleepers and warns them that the Spell is merciless." },
+        { "chapter": 23, "text": "Explains Nightmares versus the Dream Realm, and advises reaching a human Citadel." },
+        { "chapter": 26, "text": "Runs the combat class where Nephis and Caster stand out." },
+        { "chapter": 29, "text": "Leads the Sleepers to the medical center and shows them the Hollow." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 26, "text": "Instructor Rock" }
+        ],
+        "rank": [
+          { "chapter": 22, "text": "Awakened" }
+        ]
+      }
+    },
+    {
+      "cid": "Julius",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 25, "text": "An old Awakened Wilderness Survival instructor with bushy eyebrows, delighted to have a student." },
+        { "chapter": 28, "text": "Teaches Sunny survival skills and the dead languages of the Dream Realm." },
+        { "chapter": 29, "text": "Says goodbye to Sunny before the solstice and promises to apply for a research assistant position once he is Awakened." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 28, "text": "Teacher Julius" }
+        ],
+        "rank": [
+          { "chapter": 25, "text": "Awakened" }
+        ]
+      }
+    },
+    {
+      "cid": "Smile of Heaven",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 25, "text": "Mentioned as a rare exception who received her True Name in her First Nightmare." },
+        { "chapter": 27, "text": "Caster reveals she is one of Nephis's parents, along with Broken Sword." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Broken Sword",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 27, "text": "Caster reveals he is one of Nephis's parents, along with Smile of Heaven. He was the first human to conquer the Third Nightmare and become a Saint." },
+        { "chapter": 27, "text": "He and the Immortal Flame clan's head failed to protect their family from being killed in the past." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Immortal Flame",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 27, "text": "Nephis's grandfather and the first human to conquer the Second Nightmare and become a Master." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Gunlaug",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 98, "text": "Owner of the castle who calls himself king." },
+        { "chapter": 128, "text": "Charges one soul shard a week to live in the castle." },
+        { "chapter": 143, "text": "Appears in gilded armor with a mirror-like gold face that emits a mind attack when looked at." },
+        { "chapter": 149, "text": "His Aspect Ability lets him breathe and move with incredible speed underwater. He arrived eight years ago and got his armor from a dying leviathan." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Kai",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 115, "text": "Imprisoned in a well by thugs trying to force out his Memories. His Aspect Ability is flight." },
+        { "chapter": 117, "text": "A young man in light lamellar armor with dark auburn hair and green eyes." },
+        { "chapter": 118, "text": "His Flaw is that he can tell when someone is lying." },
+        { "chapter": 121, "text": "Has been on the Shore two and a half years and is known as Night, or Nightingale, in the castle." },
+        { "chapter": 170, "text": "Is Night from the idol group Nightingale, lead vocalist of the most famous group of the last decade." },
+        { "chapter": 174, "text": "Buys ten Memories for Sunny at the Memory Market using Sunny's shards." },
+        { "chapter": 188, "text": "Joins Nephis's expedition." },
+        { "chapter": 193, "text": "Carries a falcata and a horn longbow." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Effie",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 125, "text": "First seen eating roasted monster meat in a tower on the city wall: a tall, athletic young woman with hazel eyes and a braid." },
+        { "chapter": 126, "text": "Named as Effie, a Sleeper who has been stuck three years." },
+        { "chapter": 130, "text": "Her Aspect Ability is strong all-around physical enhancement, and her Flaw enhances her physical needs too, so she eats enormously. Her Memories include an apron, a knife, a Corinthian helmet, and a bag." },
+        { "chapter": 155, "text": "Joins Nephis's party as pathfinder, and Caster calls her Huntress Athena." },
+        { "chapter": 159, "text": "Wounds a Spire Messenger with her bronze spear." },
+        { "chapter": 185, "text": "Trains and watches Sunny spar with the Stone Saint." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 155, "text": "Huntress Athena" }
+        ],
+        "rank": [
+          { "chapter": 126, "text": "Sleeper" }
+        ]
+      }
+    },
+    {
+      "cid": "Harper",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 134, "text": "Receptionist in charge of guest accommodations at the castle, a gaunt, nervous young man." },
+        { "chapter": 158, "text": "Expelled from the castle and begins working at Nephis's lodge, while secretly reporting to a high-ranking Guard." },
+        { "chapter": 162, "text": "Killed by Sunny." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Gemma",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 141, "text": "Leads the Hunters and Pathfinders. He came to the Shore the same year as Gunlaug and helped take the castle." },
+        { "chapter": 144, "text": "Proposes the right of challenge in Jubei's trial." },
+        { "chapter": 153, "text": "Presides over the challenge Nephis invokes against Andel." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Tessai",
+      "image": "imageswithnocategory/placeholder.png",
+      "details": [
+        { "chapter": 141, "text": "Leads the Castle Guard, about 150 men. A morose giant, two years short of thirty, perhaps the oldest Sleeper on the Shore." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Kido",
+      "details": [
+        { "chapter": 142, "text": "Leads the Artisans. Her Ability changes the attributes of plants, and she grows the castle's vegetables." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Seishan",
+      "details": [
+        { "chapter": 142, "text": "Leads the Handmaidens, secretly teaching them self-defense. She is the first person to sense Sunny's shadow watching." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Harus",
+      "details": [
+        { "chapter": 143, "text": "Gunlaug's executioner and hidden blade, a pale hunchback who everyone fears." },
+        { "chapter": 145, "text": "Kills Jubei bare-handed in five seconds." },
+        { "chapter": 191, "text": "Follows Nephis's expedition alone." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Jubei",
+      "details": [
+        { "chapter": 144, "text": "A lean settlement dweller who accuses a Pathfinder of feeding a kid to monsters as bait, and challenges Gemma." },
+        { "chapter": 145, "text": "Killed by Harus." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Aiko",
+      "details": [
+        { "chapter": 150, "text": "Runs the castle's gambling den. The Pathfinder Andel owes her soul shards." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Andel",
+      "details": [
+        { "chapter": 150, "text": "A Pathfinder and gambler who spends all his shards at Aiko's den and refuses to pay. His Ability makes any weapon in his hands incredibly sharp." },
+        { "chapter": 154, "text": "Beheaded by Nephis in a challenge over his gambling debts." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Stephen",
+      "details": [
+        { "chapter": 224, "text": "Found dead, his body hideously transformed. Caster identifies him as the youngest heir of the Pandavar clan. Sunny remembers him as an arrogant young man from the Academy whose name he never learned." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "First Lord",
+      "details": [
+        { "chapter": 173, "text": "A member of the legendary cohort that conquered the castle. Some say the damaged black onyx armor once belonged to him." },
+        { "chapter": 178, "text": "Led an expedition to find a way out of the Forgotten Shore. His trace disappears at an unassailable mountain chain in the south, and no one returned." },
+        { "chapter": 244, "text": "Nephis says they only need to get as far as the First Lord got in the mountains." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "Stone Saint",
+      "details": [
+        { "chapter": 102, "text": "The last living statue guarding a square: a small female warrior with a sword, a round shield, black plate armor, and ruby eyes. She kills two Fallen spiders before falling." },
+        { "chapter": 105, "text": "As Sunny's Echo, she has the Attributes [Battle Master], [Stalwart], and [Mark of Divinity]." },
+        { "chapter": 106, "text": "Transformed into a Shadow, with the Attributes [Battle Master], [Stalwart], and [Spark of Divinity]. She starts at 0 of 200 Shadow Fragments." },
+        { "chapter": 109, "text": "Sunny's shadow enhancement at least doubles her power." },
+        { "chapter": 112, "text": "Kills a Carapace Centurion in a duel, but kills benefit Sunny, not her." },
+        { "chapter": 182, "text": "At 20 of 200 Shadow Fragments, she refuses to destroy the black onyx armor." },
+        { "chapter": 189, "text": "Reaches 27 of 200 Shadow Fragments." }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "insertname",
+      "details": [
+        { "chapter": 1, "text": "insert details about character3" },
+        { "chapter": 2, "text": "insert details about same character3" }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    },
+    {
+      "cid": "insertname",
+      "details": [
+        { "chapter": 1, "text": "insert details about character3" },
+        { "chapter": 2, "text": "insert details about same character3" }
+      ],
+      "overview": {
+        "aliases": [
+          { "chapter": 1, "text": "" }
+        ],
+        "rank": [
+          { "chapter": 1, "text": "insertrank" }
+        ]
+      }
+    }
+  ]
 }
