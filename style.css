@@ -498,7 +498,7 @@ main {
 }
 
 #character-menu {
-    height: 750px;
+    height: 650px;
     overflow-y: auto;
     overflow-x: hidden;
     min-height: 0;
