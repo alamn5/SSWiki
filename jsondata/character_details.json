@@ -97,6 +97,11 @@
             
             { "chapter": 2, "text": "[Child of Shadows]", 
             "chapter_description": 3, "description": "Shadows recognize you as one of their own." },
+
+            {
+            "chapter": 15, "text": "[Shadow Bond] (innate ability):",
+            "chapter_description": 15, "description": "Find a worthy master and let them know your True Name. Once they recite it aloud, you will be bound to their will, unable to disobey any command. It is improper for a shadow, let alone a divine one, to walk around without a master."
+            },
             
             { "chapter": 17, "text": "Flaw: [Clear Conscience]", 
             "chapter_description": 17,"description": "You cannot lie." },

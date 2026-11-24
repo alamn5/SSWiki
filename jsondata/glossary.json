@@ -1,0 +1,182 @@
+{
+  "ranks": [
+    {
+        "classification": "Human",
+        "name": "Dormant (Sleeper)",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "Infected humans who have not yet completed their first nightmare."
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Awakened",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Ascended (Master)",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Transcendant (Saint)",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Supreme (Sovereign)",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Sacred",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+    {
+        "classification": "Human",
+        "name": "Divine",
+        "chapter": 1,
+        "details":[
+            {
+            "chapter": 1, "description": "insert details"
+            }
+        ]
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Dormant",
+        "description": "An example description.",
+        "chapter": 1
+    },  
+    
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Awakened",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Fallen",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Corrupted",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Great",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Cursed",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Nightmare Creatures",
+        "name": "Unholy",
+        "description": "An example description.",
+        "chapter": 1
+    },
+    
+    {
+        "classification": "Class",
+        "name": "Beast (1)",
+        "description": "For both nightmare creatures and divine aspect holders",
+        "chapter": 1
+    },  
+    
+    {
+        "classification": "Class",
+        "name": "Monster (2)",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Class",
+        "name": "Demon (3)",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Class",
+        "name": "Devil (4)",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Class",
+        "name": "Tyrant (5)",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Class",
+        "name": "Terror (6)",
+        "description": "An example description.",
+        "chapter": 1
+    },
+
+    {
+        "classification": "Class",
+        "name": "Titan (7)",
+        "description": "An example description.",
+        "chapter": 1
+    }
+
+  ],
+
+
+  "nightmare_creatures": [
+    {
+      "name": "Example Creature",
+      "description": "An example description.",
+      "chapter": 10
+    }
+  ]
+}

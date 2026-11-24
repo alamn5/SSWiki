@@ -264,6 +264,38 @@ main {
     gap: 1.5rem; /* space between ch title and summary*/
 }
 
+#explore-menu {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(180px, 240px));
+    gap: 1.5rem;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1.5rem;
+    background: rgba(4, 10, 20, 0.55);
+}
+
+#explore-menu button {
+    min-height: 110px;
+    padding: 1.25rem;
+    font: inherit;
+    font-size: 20px;
+    color: var(--base-color);
+    background: var(--scnd-base-color);
+    
+    border-left: 1px solid var(--base-color);
+
+    cursor: pointer;
+    transition: background-color 0.2s ease, border-color 0.2s ease,
+                color 0.2s ease, transform 0.2s ease;
+}
+
+#explore-menu button:hover {
+    color: var(--scnd-base-color);
+    background: rgba(37, 74, 122, 0.45);
+    transform: translateY(-3px);
+    border-left-color: var(--scnd-base-color);
+}
+
 /*for a phone layout */
 @media (max-width: 600px) {
     .layout {
@@ -280,6 +312,10 @@ main {
         #sidebar.close {
         width: 30%;
         flex-basis: 60px;
+    }
+
+    #explore-menu {
+        grid-template-columns: 1fr;
     }
 }
 
