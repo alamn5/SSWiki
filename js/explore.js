@@ -57,11 +57,6 @@ function loadCategory(category) {
                             title.textContent = memory.name;
                             memoryDetails.appendChild(title);
 
-                            const introduced = document.createElement("p");
-                            introduced.classList.add("memory-introduced");
-                            introduced.textContent = `Introduced in Chapter ${memory.chapter_introduced}`;
-                            memoryDetails.appendChild(introduced);
-
                             if (!memory.details || memory.details.length === 0) {
                                 const noDetails = document.createElement("p");
                                 noDetails.textContent = "No description details are available.";
@@ -73,7 +68,7 @@ function loadCategory(category) {
 
                                     const chapter = document.createElement("span");
                                     chapter.classList.add("memory-detail-chapter");
-                                    chapter.textContent = `Chapter ${detail.chapter}`;
+                                    //chapter.textContent = `Chapter ${detail.chapter}`;
 
                                     const text = document.createElement("p");
                                     text.textContent = detail.text;
