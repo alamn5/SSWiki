@@ -1,7 +1,7 @@
 /////////////////////////////////////////////////////
 //for chapter select -- this is the part in index.html where it says js will inject options
 const chapter = document.getElementById('chapter-select')
-for (let i = 1; i < 211; i++) { //yo update this number when u add more chapter
+for (let i = 1; i < 231; i++) { //yo update this number when u add more chapter
   //create a new <option> element
   const option = document.createElement('option');
   //iterating over i value and assigning that to option
